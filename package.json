@@ -1,0 +1,29 @@
+{
+    "name": "ct239",
+    "version": "1.0.0",
+    "description": "",
+    "main": "./src/assets/main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/trongnhan190901/ct239.git"
+    },
+    "keywords": [
+        "CT239"
+    ],
+    "author": "Trong Nhan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/trongnhan190901/ct239/issues"
+    },
+    "homepage": "https://github.com/trongnhan190901/ct239#readme",
+    "dependencies": {
+        "electron": "^16.0.7"
+    },
+    "devDependencies": {
+        "tailwindcss": "^3.0.23"
+    }
+}

@@ -1,0 +1,1570 @@
+[
+    {
+        "description": "(Tech) quan hệ 1 đối 1",
+        "html": "<h1>﻿1 to 1 relationship</h1><h3><i>//</i></h3><ul><li>(Tech) quan hệ 1 đối 1</li></ul>",
+        "id": 58171,
+        "pronounce": "",
+        "word": "1 to 1 relationship"
+    },
+    {
+        "description": "(Tech) quan hệ 1 đối nhiều",
+        "html": "<h1>1 to many relationship</h1><h3><i>//</i></h3><ul><li>(Tech) quan hệ 1 đối nhiều</li></ul>",
+        "id": 58172,
+        "pronounce": "",
+        "word": "1 to many relationship"
+    },
+    {
+        "description": "(Tech) mã ký tự 1 bai",
+        "html": "<h1>1-byte character code</h1><h3><i>//</i></h3><ul><li>(Tech) mã ký tự 1 bai</li></ul>",
+        "id": 58173,
+        "pronounce": "",
+        "word": "1-byte character code"
+    },
+    {
+        "description": "(Tech) bộ ký tự 1 bai",
+        "html": "<h1>1-byte character set</h1><h3><i>//</i></h3><ul><li>(Tech) bộ ký tự 1 bai</li></ul>",
+        "id": 58174,
+        "pronounce": "",
+        "word": "1-byte character set"
+    },
+    {
+        "description": "(Tech) chuỗi ký tự 1 bai",
+        "html": "<h1>1-byte character string</h1><h3><i>//</i></h3><ul><li>(Tech) chuỗi ký tự 1 bai</li></ul>",
+        "id": 58175,
+        "pronounce": "",
+        "word": "1-byte character string"
+    },
+    {
+        "description": "(Tech) ký tự 1 bai",
+        "html": "<h1>1-byte character</h1><h3><i>//</i></h3><ul><li>(Tech) ký tự 1 bai</li></ul>",
+        "id": 58176,
+        "pronounce": "",
+        "word": "1-byte character"
+    },
+    {
+        "description": "(Tech) thiết bị 2 chiều/thu phát",
+        "html": "<h1>2-way device</h1><h3><i>//</i></h3><ul><li>(Tech) thiết bị 2 chiều/thu phát</li></ul>",
+        "id": 58177,
+        "pronounce": "",
+        "word": "2-way device"
+    },
+    {
+        "description": "(Tech) hai chiều, nhị thứ nguyên, phẳng",
+        "html": "<h1>2D (two dimension)</h1><h3><i>//</i></h3><ul><li>(Tech) hai chiều, nhị thứ nguyên, phẳng</li></ul>",
+        "id": 58178,
+        "pronounce": "",
+        "word": "2D (two dimension)"
+    },
+    {
+        "description": "(Tech) cấu hình 2 chiều, cấu hình phẳng",
+        "html": "<h1>2D configuration</h1><h3><i>//</i></h3><ul><li>(Tech) cấu hình 2 chiều, cấu hình phẳng</li></ul>",
+        "id": 58179,
+        "pronounce": "",
+        "word": "2D configuration"
+    },
+    {
+        "description": "(Tech) ảnh 2 chiều, ảnh phẳng",
+        "html": "<h1>2D image</h1><h3><i>//</i></h3><ul><li>(Tech) ảnh 2 chiều, ảnh phẳng</li></ul>",
+        "id": 58180,
+        "pronounce": "",
+        "word": "2D image"
+    },
+    {
+        "description": "(Tech) mô đun hai chiều",
+        "html": "<h1>2D module = two-dimensional module</h1><h3><i>//</i></h3><ul><li>(Tech) mô đun hai chiều</li></ul>",
+        "id": 58181,
+        "pronounce": "",
+        "word": "2D module = two-dimensional module"
+    },
+    {
+        "description": "(Tech) tính toán 3 chiều",
+        "html": "<h1>3D (three dimension) calculation</h1><h3><i>//</i></h3><ul><li>(Tech) tính toán 3 chiều</li></ul>",
+        "id": 58182,
+        "pronounce": "",
+        "word": "3D (three dimension) calculation"
+    },
+    {
+        "description": "(Tech) cấu hình 3 chiều, cấu hình nổi",
+        "html": "<h1>3D (three dimension) configuration</h1><h3><i>//</i></h3><ul><li>(Tech) cấu hình 3 chiều, cấu hình nổi</li></ul>",
+        "id": 58183,
+        "pronounce": "",
+        "word": "3D (three dimension) configuration"
+    },
+    {
+        "description": "(Tech) ảnh 3 chiều, ảnh nổi = stereoscopic image",
+        "html": "<h1>3D (three dimension) image</h1><h3><i>//</i></h3><ul><li>(Tech) ảnh 3 chiều, ảnh nổi = stereoscopic image</li></ul>",
+        "id": 58184,
+        "pronounce": "",
+        "word": "3D (three dimension) image"
+    },
+    {
+        "description": "(Tech) ba chiều, tam thứ nguyên, nổi",
+        "html": "<h1>3D (three dimension)</h1><h3><i>//</i></h3><ul><li>(Tech) ba chiều, tam thứ nguyên, nổi</li></ul>",
+        "id": 58185,
+        "pronounce": "",
+        "word": "3D (three dimension)"
+    },
+    {
+        "description": "(Tech) Ngôn ngữ Thế hệ Thứ tư",
+        "html": "<h1>4th Generation Language (4GL)</h1><h3><i>//</i></h3><ul><li>(Tech) Ngôn ngữ Thế hệ Thứ tư</li></ul>",
+        "id": 58186,
+        "pronounce": "",
+        "word": "4th Generation Language (4GL)"
+    },
+    {
+        "description": "(Tech) bộ mã ASCII 7 bít",
+        "html": "<h1>7-bit ASCII code set</h1><h3><i>//</i></h3><ul><li>(Tech) bộ mã ASCII 7 bít</li></ul>",
+        "id": 58187,
+        "pronounce": "",
+        "word": "7-bit ASCII code set"
+    },
+    {
+        "description": "(Tech) mã ASCII 7 bít",
+        "html": "<h1>7-bit ASCII code</h1><h3><i>//</i></h3><ul><li>(Tech) mã ASCII 7 bít</li></ul>",
+        "id": 58188,
+        "pronounce": "",
+        "word": "7-bit ASCII code"
+    },
+    {
+        "description": "(Tech) mã ký tự 8 bít",
+        "html": "<h1>8-bit character code</h1><h3><i>//</i></h3><ul><li>(Tech) mã ký tự 8 bít</li></ul>",
+        "id": 58189,
+        "pronounce": "",
+        "word": "8-bit character code"
+    },
+    {
+        "description": "(Tech) bộ ký tự 8 bít",
+        "html": "<h1>8-bit character set</h1><h3><i>//</i></h3><ul><li>(Tech) bộ ký tự 8 bít</li></ul>",
+        "id": 58190,
+        "pronounce": "",
+        "word": "8-bit character set"
+    },
+    {
+        "description": "(Tech) chuỗi ký tự 8 bít",
+        "html": "<h1>8-bit character string</h1><h3><i>//</i></h3><ul><li>(Tech) chuỗi ký tự 8 bít</li></ul>",
+        "id": 58191,
+        "pronounce": "",
+        "word": "8-bit character string"
+    },
+    {
+        "description": "(Tech) ký tự 8 bít",
+        "html": "<h1>8-bit character</h1><h3><i>//</i></h3><ul><li>(Tech) ký tự 8 bít</li></ul>",
+        "id": 58192,
+        "pronounce": "",
+        "word": "8-bit character"
+    },
+    {
+        "description": "(Tech) máy vi điện toán 8 bít, máy vi tính 8 bít [TN]",
+        "html": "<h1>8-bit microcomputer</h1><h3><i>//</i></h3><ul><li>(Tech) máy vi điện toán 8 bít, máy vi tính 8 bít [TN]</li></ul>",
+        "id": 58193,
+        "pronounce": "",
+        "word": "8-bit microcomputer"
+    },
+    {
+        "description": "(Tech) bộ vi xử lý 8 bít",
+        "html": "<h1>8-bit microprocessor</h1><h3><i>//</i></h3><ul><li>(Tech) bộ vi xử lý 8 bít</li></ul>",
+        "id": 58194,
+        "pronounce": "",
+        "word": "8-bit microprocessor"
+    },
+    {
+        "description": "(Tech) máy điện toán cá nhân 8 bít",
+        "html": "<h1>8-bit personal computer</h1><h3><i>//</i></h3><ul><li>(Tech) máy điện toán cá nhân 8 bít</li></ul>",
+        "id": 58195,
+        "pronounce": "",
+        "word": "8-bit personal computer"
+    },
+    {
+        "description": "(Econ) Hiệu quả X.",
+        "html": "<h1>X-efficiency</h1><h3><i>//</i></h3><ul><li>(Econ) Hiệu quả X.+ Là một tình huống, trong đó tổng chi phí của một hãng không thể giảm đến mức tối thiểu vì sản lượng thực tế từ các đầu vào xác định nhỏ hơn mức khả thi lớn nhất.<br/></li></ul>",
+        "id": 67339,
+        "pronounce": "",
+        "word": "X-efficiency"
+    },
+    {
+        "description": "(Econ) Hiệu quả Y.",
+        "html": "<h1>Y-efficiency</h1><h3><i>//</i></h3><ul><li>(Econ) Hiệu quả Y.+ Hiệu quả trong đó các cơ hội thu lợi nhuân trên thị trường được khai thác.<br/></li></ul>",
+        "id": 67340,
+        "pronounce": "",
+        "word": "Y-efficiency"
+    },
+    {
+        "description": "(Econ) Lợi tức.",
+        "html": "<h1>Yeild</h1><h3><i>//</i></h3><ul><li>(Econ) Lợi tức.+ Tỷ lệ thu hàng năm đối với một chứng khoán được tính bằng tỷ lệ % so với thị giá hiện tại.<br/></li></ul>",
+        "id": 67341,
+        "pronounce": "",
+        "word": "Yeild"
+    },
+    {
+        "description": "(Econ) Chênh lệch lợi tức.",
+        "html": "<h1>Yeild gap</h1><h3><i>//</i></h3><ul><li>(Econ) Chênh lệch lợi tức.+ Mức khác biệt giữa lợi tức trung bình đối với cổ phần và tỷ lệ thu hồi tương ứng đối với các chứng khoán dài hạn có lãi suất cố định.<br/></li></ul>",
+        "id": 67342,
+        "pronounce": "",
+        "word": "Yeild gap"
+    },
+    {
+        "description": "(Econ) Chênh lệch lợi tức chứng khoán.",
+        "html": "<h1>Yeild gap on securities</h1><h3><i>//</i></h3><ul><li>(Econ) Chênh lệch lợi tức chứng khoán.+ Xem<br/></li></ul>",
+        "id": 67343,
+        "pronounce": "",
+        "word": "Yeild gap on securities"
+    },
+    {
+        "description": "(Econ) Quy ước Zellner-Giesel.",
+        "html": "<h1>Zellner-Giesel</h1><h3><i>//</i></h3><ul><li>(Econ) Quy ước Zellner-Giesel.+ Một phương pháp được thiết kế đặc biệt cho ước lượng nhất quán các thông số của phương trình trễ phân phối sau khi biến đổi KOYCH mà có tính đến thực tế là biến đổi đó có thể đưa vào tương quan chuỗi của thành phần nhiễu.<br/></li></ul>",
+        "id": 67344,
+        "pronounce": "",
+        "word": "Zellner-Giesel"
+    },
+    {
+        "description": "(Econ) Các hàng hoá có mức thuế bằng 0.",
+        "html": "<h1>Zero-rate goods</h1><h3><i>//</i></h3><ul><li>(Econ) Các hàng hoá có mức thuế bằng 0.+ Xem VALUE-ADDED TAX.<br/></li></ul>",
+        "id": 67345,
+        "pronounce": "",
+        "word": "Zero-rate goods"
+    },
+    {
+        "description": "(Econ) Biến số Z.",
+        "html": "<h1>Z variable</h1><h3><i>//</i></h3><ul><li>(Econ) Biến số Z.+ Xem NORMAL DISTRIBUTION.<br/></li></ul>",
+        "id": 67346,
+        "pronounce": "",
+        "word": "Z variable"
+    },
+    {
+        "description": "(Econ) Sự lỏng lẻo về tổ chức.",
+        "html": "<h1>Organization slack</h1><h3><i>//</i></h3><ul><li>(Econ) Sự lỏng lẻo về tổ chức.</li></ul>",
+        "id": 67347,
+        "pronounce": "",
+        "word": "Organization slack"
+    },
+    {
+        "description": "(Econ) Thông tin hoàn hảo.",
+        "html": "<h1>Perfect information</h1><h3><i>//</i></h3><ul><li>(Econ) Thông tin hoàn hảo.</li></ul>",
+        "id": 67348,
+        "pronounce": "",
+        "word": "Perfect information"
+    },
+    {
+        "description": "(Econ) Giả thuyết về thu nhập lâu dài.",
+        "html": "<h1>Personal income Hypothesis</h1><h3><i>//</i></h3><ul><li>(Econ) Giả thuyết về thu nhập lâu dài.</li></ul>",
+        "id": 67349,
+        "pronounce": "",
+        "word": "Personal income Hypothesis"
+    },
+    {
+        "description": "(Econ) Phân phối thu nhập cho cá nhân.",
+        "html": "<h1>Personal income distribution</h1><h3><i>//</i></h3><ul><li>(Econ) Phân phối thu nhập cho cá nhân.</li></ul>",
+        "id": 67350,
+        "pronounce": "",
+        "word": "Personal income distribution"
+    },
+    {
+        "description": "(Econ) Tác động vô hiệu hoá thâm hụt cán cân thanh toán bởi dòng vốn chảy vào.",
+        "html": "<h1>Sterilization impact of capital inflow</h1><h3><i>//</i></h3><ul><li>(Econ) Tác động vô hiệu hoá thâm hụt cán cân thanh toán bởi dòng vốn chảy vào.</li></ul>",
+        "id": 67351,
+        "pronounce": "",
+        "word": "Sterilization impact of capital inflow"
+    },
+    {
+        "description": "(Econ) Ảnh hưởng/Tác động thay thế của tiền công.",
+        "html": "<h1>Substitution effect of wages</h1><h3><i>//</i></h3><ul><li>(Econ) Ảnh hưởng/Tác động thay thế của tiền công.</li></ul>",
+        "id": 67352,
+        "pronounce": "",
+        "word": "Substitution effect of wages"
+    },
+    {
+        "description": "(Econ) Dãy số liệu theo thời gian.",
+        "html": "<h1>Time series data</h1><h3><i>//</i></h3><ul><li>(Econ) Dãy số liệu theo thời gian.</li></ul>",
+        "id": 67353,
+        "pronounce": "",
+        "word": "Time series data"
+    },
+    {
+        "description": "(Econ) Giá kế toán.",
+        "html": "<h1>Accounting price</h1><h3><i>//</i></h3><ul><li>(Econ) Giá kế toán.</li></ul>",
+        "id": 67354,
+        "pronounce": "",
+        "word": "Accounting price"
+    },
+    {
+        "description": "(Econ) Khấu hao tích luỹ.",
+        "html": "<h1>Accumulated depreciation</h1><h3><i>//</i></h3><ul><li>(Econ) Khấu hao tích luỹ.</li></ul>",
+        "id": 67355,
+        "pronounce": "",
+        "word": "Accumulated depreciation"
+    },
+    {
+        "description": "(Econ) Phân tích tình huống.",
+        "html": "<h1>Scenario analysis</h1><h3><i>//</i></h3><ul><li>(Econ) Phân tích tình huống.</li></ul>",
+        "id": 67356,
+        "pronounce": "",
+        "word": "Scenario analysis"
+    },
+    {
+        "description": "(Econ) Phân tích độ nhạy.",
+        "html": "<h1>Sensitivity analysis</h1><h3><i>//</i></h3><ul><li>(Econ) Phân tích độ nhạy.</li></ul>",
+        "id": 67357,
+        "pronounce": "",
+        "word": "Sensitivity analysis"
+    },
+    {
+        "description": "(Econ) Thẩm định.",
+        "html": "<h1>Appraisal</h1><h3><i>//</i></h3><ul><li>(Econ) Thẩm định.</li></ul>",
+        "id": 67358,
+        "pronounce": "",
+        "word": "Appraisal"
+    },
+    {
+        "description": "(Econ) Tăng giá.",
+        "html": "<h1>Appreciation (currency)</h1><h3><i>//</i></h3><ul><li>(Econ) Tăng giá.</li></ul>",
+        "id": 67359,
+        "pronounce": "",
+        "word": "Appreciation (currency)"
+    },
+    {
+        "description": "(Econ) Tăng giá và giảm giá trị.",
+        "html": "<h1>Appreciation and depreciation</h1><h3><i>//</i></h3><ul><li>(Econ) Tăng giá và giảm giá trị.</li></ul>",
+        "id": 67360,
+        "pronounce": "",
+        "word": "Appreciation and depreciation"
+    },
+    {
+        "description": "(Econ) Kinh doanh dựa vào chênh lệch tỷ giá.",
+        "html": "<h1>Arbitrage</h1><h3><i>//</i></h3><ul><li>(Econ) Kinh doanh dựa vào chênh lệch tỷ giá.</li></ul>",
+        "id": 67361,
+        "pronounce": "",
+        "word": "Arbitrage"
+    },
+    {
+        "description": "(Econ) (GDP) được cân đối.",
+        "html": "<h1>Balanced (GDP)</h1><h3><i>//</i></h3><ul><li>(Econ) (GDP) được cân đối.</li></ul>",
+        "id": 67362,
+        "pronounce": "",
+        "word": "Balanced (GDP)"
+    },
+    {
+        "description": "(Econ) (GDP) cân bằng.",
+        "html": "<h1>Balanced equilibrium (GDP)</h1><h3><i>//</i></h3><ul><li>(Econ) (GDP) cân bằng.</li></ul>",
+        "id": 67363,
+        "pronounce": "",
+        "word": "Balanced equilibrium (GDP)"
+    },
+    {
+        "description": "(Econ) Chỉ số tính sự biến động lợi tức của một cổ phiếu cùng với sự biến động lợi tức của toàn bộ thị trường chứng khoán.",
+        "html": "<h1>Beta</h1><h3><i>//</i></h3><ul><li>(Econ) Chỉ số tính sự biến động lợi tức của một cổ phiếu cùng với sự biến động lợi tức của toàn bộ thị trường chứng khoán.</li></ul>",
+        "id": 67364,
+        "pronounce": "",
+        "word": "Beta"
+    },
+    {
+        "description": "(Econ) Mức/ Khoản chênh lệc của thị trường chợ đen.",
+        "html": "<h1>Black market premium</h1><h3><i>//</i></h3><ul><li>(Econ) Mức/ Khoản chênh lệc của thị trường chợ đen.</li></ul>",
+        "id": 67365,
+        "pronounce": "",
+        "word": "Black market premium"
+    },
+    {
+        "description": "(Econ) Cổ phiếu sáng giá.",
+        "html": "<h1>Blue-chip stock</h1><h3><i>//</i></h3><ul><li>(Econ) Cổ phiếu sáng giá.</li></ul>",
+        "id": 67366,
+        "pronounce": "",
+        "word": "Blue-chip stock"
+    },
+    {
+        "description": "(Econ) Trái phiếu chính phủ có giá trị cao.",
+        "html": "<h1>Gild-edged bonds</h1><h3><i>//</i></h3><ul><li>(Econ) Trái phiếu chính phủ có giá trị cao.</li></ul>",
+        "id": 67367,
+        "pronounce": "",
+        "word": "Gild-edged bonds"
+    },
+    {
+        "description": "(Econ) Giá cửa khẩu.",
+        "html": "<h1>Border price</h1><h3><i>//</i></h3><ul><li>(Econ) Giá cửa khẩu.</li></ul>",
+        "id": 67368,
+        "pronounce": "",
+        "word": "Border price"
+    },
+    {
+        "description": "(Econ) Đa cộng tuyến.",
+        "html": "<h1>Multi-collinearity</h1><h3><i>//</i></h3><ul><li>(Econ) Đa cộng tuyến.</li></ul>",
+        "id": 67369,
+        "pronounce": "",
+        "word": "Multi-collinearity"
+    },
+    {
+        "description": "(Econ) Tổ hợp.",
+        "html": "<h1>Combination</h1><h3><i>//</i></h3><ul><li>(Econ) Tổ hợp.</li></ul>",
+        "id": 67370,
+        "pronounce": "",
+        "word": "Combination"
+    },
+    {
+        "description": "(Econ) Các mức bù thêm lương.",
+        "html": "<h1>Compensating differentials</h1><h3><i>//</i></h3><ul><li>(Econ) Các mức bù thêm lương.</li></ul>",
+        "id": 67371,
+        "pronounce": "",
+        "word": "Compensating differentials"
+    },
+    {
+        "description": "(Econ) Sinh lợi cố định theo quy mô.",
+        "html": "<h1>Constant returns to scale</h1><h3><i>//</i></h3><ul><li>(Econ) Sinh lợi cố định theo quy mô.</li></ul>",
+        "id": 67372,
+        "pronounce": "",
+        "word": "Constant returns to scale"
+    },
+    {
+        "description": "(Econ) Hạn chế/ ràng buộc (không chính thức/ chính thức; ngoài quy định/ theo quy định).",
+        "html": "<h1>Constrain informal</h1><h3><i>/formal/</i></h3><ul><li>(Econ) Hạn chế/ ràng buộc (không chính thức/ chính thức; ngoài quy định/ theo quy định).</li></ul>",
+        "id": 67373,
+        "pronounce": "formal",
+        "word": "Constrain informal"
+    },
+    {
+        "description": "(Econ) Chủ quyền người tiêu dùng.",
+        "html": "<h1>Consumer sovereignty</h1><h3><i>//</i></h3><ul><li>(Econ) Chủ quyền người tiêu dùng.</li></ul>",
+        "id": 67374,
+        "pronounce": "",
+        "word": "Consumer sovereignty"
+    },
+    {
+        "description": "(Econ) Thặng dư người tiêu dùng.",
+        "html": "<h1>Consumer surplus</h1><h3><i>//</i></h3><ul><li>(Econ) Thặng dư người tiêu dùng.</li></ul>",
+        "id": 67375,
+        "pronounce": "",
+        "word": "Consumer surplus"
+    },
+    {
+        "description": "(Econ) Tiêu dùng.",
+        "html": "<h1>Consumption</h1><h3><i>//</i></h3><ul><li>(Econ) Tiêu dùng.</li></ul>",
+        "id": 67376,
+        "pronounce": "",
+        "word": "Consumption"
+    },
+    {
+        "description": "(Econ) Tiêu dùng phụ thuộc / thay đổi.",
+        "html": "<h1>Independent</h1><h3><i>/induced consumption/</i></h3><ul><li>(Econ) Tiêu dùng phụ thuộc / thay đổi.</li></ul>",
+        "id": 67377,
+        "pronounce": "induced consumption",
+        "word": "Independent"
+    },
+    {
+        "description": "(Econ) Hàm Tiêu dùng.",
+        "html": "<h1>Consumption function</h1><h3><i>//</i></h3><ul><li>(Econ) Hàm Tiêu dùng.</li></ul>",
+        "id": 67378,
+        "pronounce": "",
+        "word": "Consumption function"
+    },
+    {
+        "description": "(Econ) Thị trường có thể cạnh tranh được.",
+        "html": "<h1>Contestable market</h1><h3><i>//</i></h3><ul><li>(Econ) Thị trường có thể cạnh tranh được.</li></ul>",
+        "id": 67379,
+        "pronounce": "",
+        "word": "Contestable market"
+    },
+    {
+        "description": "(Econ) Hệ số chuyển đổi.",
+        "html": "<h1>Conversion factor</h1><h3><i>//</i></h3><ul><li>(Econ) Hệ số chuyển đổi.</li></ul>",
+        "id": 67380,
+        "pronounce": "",
+        "word": "Conversion factor"
+    },
+    {
+        "description": "(Econ) Giải pháp khó xử.",
+        "html": "<h1>Cornor solution</h1><h3><i>//</i></h3><ul><li>(Econ) Giải pháp khó xử.</li></ul>",
+        "id": 67381,
+        "pronounce": "",
+        "word": "Cornor solution"
+    },
+    {
+        "description": "(Econ) Quy là tội phạm.",
+        "html": "<h1>Criminalization</h1><h3><i>//</i></h3><ul><li>(Econ) Quy là tội phạm.</li></ul>",
+        "id": 67382,
+        "pronounce": "",
+        "word": "Criminalization"
+    },
+    {
+        "description": "(Econ) Độ co giãn theo giá chéo của cầu.",
+        "html": "<h1>Cross price elasticity of demand</h1><h3><i>//</i></h3><ul><li>(Econ) Độ co giãn theo giá chéo của cầu.</li></ul>",
+        "id": 67383,
+        "pronounce": "",
+        "word": "Cross price elasticity of demand"
+    },
+    {
+        "description": "(Econ) Số liệu chéo/ mẫu/ đặc trưng.",
+        "html": "<h1>Cross-section data</h1><h3><i>//</i></h3><ul><li>(Econ) Số liệu chéo/ mẫu/ đặc trưng.</li></ul>",
+        "id": 67384,
+        "pronounce": "",
+        "word": "Cross-section data"
+    },
+    {
+        "description": "(Econ) Tác động lấn ép, chèn ép.",
+        "html": "<h1>Crowding-out effect</h1><h3><i>//</i></h3><ul><li>(Econ) Tác động lấn ép, chèn ép.</li></ul>",
+        "id": 67385,
+        "pronounce": "",
+        "word": "Crowding-out effect"
+    },
+    {
+        "description": "(Econ) Sự/ mức mất mát vô ích.",
+        "html": "<h1>Dead weight loss</h1><h3><i>//</i></h3><ul><li>(Econ) Sự/ mức mất mát vô ích.</li></ul>",
+        "id": 67386,
+        "pronounce": "",
+        "word": "Dead weight loss"
+    },
+    {
+        "description": "(Econ) Gánh nặng vô ích của thuế khoá.",
+        "html": "<h1>Dead weight tax burden</h1><h3><i>//</i></h3><ul><li>(Econ) Gánh nặng vô ích của thuế khoá.</li></ul>",
+        "id": 67387,
+        "pronounce": "",
+        "word": "Dead weight tax burden"
+    },
+    {
+        "description": "(Econ) Hoãn nợ/ gia hạn nợ.",
+        "html": "<h1>Debt rescheduling</h1><h3><i>//</i></h3><ul><li>(Econ) Hoãn nợ/ gia hạn nợ.</li></ul>",
+        "id": 67388,
+        "pronounce": "",
+        "word": "Debt rescheduling"
+    },
+    {
+        "description": "(Econ) Thành mười nhóm bằng nhau.",
+        "html": "<h1>Decile</h1><h3><i>//</i></h3><ul><li>(Econ) Thành mười nhóm bằng nhau.</li></ul>",
+        "id": 67389,
+        "pronounce": "",
+        "word": "Decile"
+    },
+    {
+        "description": "(Econ) Hàng hoá cùng loại mang nét đặc trưng riêng.",
+        "html": "<h1>Differentiated goods</h1><h3><i>//</i></h3><ul><li>(Econ) Hàng hoá cùng loại mang nét đặc trưng riêng.</li></ul>",
+        "id": 67390,
+        "pronounce": "",
+        "word": "Differentiated goods"
+    },
+    {
+        "description": "(Econ) Chính phủ can thiệp.",
+        "html": "<h1>Dirigiste</h1><h3><i>//</i></h3><ul><li>(Econ) Chính phủ can thiệp.</li></ul>",
+        "id": 67391,
+        "pronounce": "",
+        "word": "Dirigiste"
+    },
+    {
+        "description": "(Econ) Các biến dạng và thất bại của thị trường.",
+        "html": "<h1>Distortions and market failure</h1><h3><i>//</i></h3><ul><li>(Econ) Các biến dạng và thất bại của thị trường.</li></ul>",
+        "id": 67392,
+        "pronounce": "",
+        "word": "Distortions and market failure"
+    },
+    {
+        "description": "(Econ) Phân phối.",
+        "html": "<h1>Distribution</h1><h3><i>//</i></h3><ul><li>(Econ) Phân phối.</li></ul>",
+        "id": 67393,
+        "pronounce": "",
+        "word": "Distribution"
+    },
+    {
+        "description": "(Econ) Phân phối liên tục.",
+        "html": "<h1>Continuous distribution</h1><h3><i>//</i></h3><ul><li>(Econ) Phân phối liên tục.</li></ul>",
+        "id": 67394,
+        "pronounce": "",
+        "word": "Continuous distribution"
+    },
+    {
+        "description": "(Econ) Phân phối tất định.",
+        "html": "<h1>Deterministic distribution</h1><h3><i>//</i></h3><ul><li>(Econ) Phân phối tất định.</li></ul>",
+        "id": 67395,
+        "pronounce": "",
+        "word": "Deterministic distribution"
+    },
+    {
+        "description": "(Econ) Tổng sản lượng cân bằng.",
+        "html": "<h1>Equilibrium aggregate output</h1><h3><i>//</i></h3><ul><li>(Econ) Tổng sản lượng cân bằng.</li></ul>",
+        "id": 67396,
+        "pronounce": "",
+        "word": "Equilibrium aggregate output"
+    },
+    {
+        "description": "(Econ) Cân bằng các mức chênh lệch tiền công.",
+        "html": "<h1>Equilizing wage diffirentials</h1><h3><i>//</i></h3><ul><li>(Econ) Cân bằng các mức chênh lệch tiền công.</li></ul>",
+        "id": 67397,
+        "pronounce": "",
+        "word": "Equilizing wage diffirentials"
+    },
+    {
+        "description": "(Econ) Vốn cổ phần.",
+        "html": "<h1>Equity</h1><h3><i>//</i></h3><ul><li>(Econ) Vốn cổ phần.</li></ul>",
+        "id": 67398,
+        "pronounce": "",
+        "word": "Equity"
+    },
+    {
+        "description": "(Econ) Sự tiến triển của tình hình kinh tế.",
+        "html": "<h1>Evolving market condition</h1><h3><i>//</i></h3><ul><li>(Econ) Sự tiến triển của tình hình kinh tế.</li></ul>",
+        "id": 67399,
+        "pronounce": "",
+        "word": "Evolving market condition"
+    },
+    {
+        "description": "(Econ) Những dư tính ngoại sinh.",
+        "html": "<h1>Exogenuos expectations</h1><h3><i>//</i></h3><ul><li>(Econ) Những dư tính ngoại sinh.</li></ul>",
+        "id": 67400,
+        "pronounce": "",
+        "word": "Exogenuos expectations"
+    },
+    {
+        "description": "(Econ) Lạm phát dự tính được.",
+        "html": "<h1>Expected inflation</h1><h3><i>//</i></h3><ul><li>(Econ) Lạm phát dự tính được.</li></ul>",
+        "id": 67401,
+        "pronounce": "",
+        "word": "Expected inflation"
+    },
+    {
+        "description": "(Econ) Lạm phát bất thường..",
+        "html": "<h1>Unexpected inflation</h1><h3><i>//</i></h3><ul><li>(Econ) Lạm phát bất thường..</li></ul>",
+        "id": 67402,
+        "pronounce": "",
+        "word": "Unexpected inflation"
+    },
+    {
+        "description": "(Econ) Tiền pháp định.",
+        "html": "<h1>Fiat (or token) money</h1><h3><i>//</i></h3><ul><li>(Econ) Tiền pháp định.</li></ul>",
+        "id": 67403,
+        "pronounce": "",
+        "word": "Fiat (or token) money"
+    },
+    {
+        "description": "(Econ) Hàng hoá cuối cùng.",
+        "html": "<h1>Final goods</h1><h3><i>//</i></h3><ul><li>(Econ) Hàng hoá cuối cùng.</li></ul>",
+        "id": 67404,
+        "pronounce": "",
+        "word": "Final goods"
+    },
+    {
+        "description": "(Econ) Tăng cường tài chính; phát triển hệ thống tài chính.",
+        "html": "<h1>Finance deepening</h1><h3><i>//</i></h3><ul><li>(Econ) Tăng cường tài chính; phát triển hệ thống tài chính.</li></ul>",
+        "id": 67405,
+        "pronounce": "",
+        "word": "Finance deepening"
+    },
+    {
+        "description": "(Econ) Tinh chỉnh.",
+        "html": "<h1>Fine turning</h1><h3><i>//</i></h3><ul><li>(Econ) Tinh chỉnh.</li></ul>",
+        "id": 67406,
+        "pronounce": "",
+        "word": "Fine turning"
+    },
+    {
+        "description": "(Econ) Hàng hoá trung gian.",
+        "html": "<h1>Intermediate goods</h1><h3><i>//</i></h3><ul><li>(Econ) Hàng hoá trung gian.</li></ul>",
+        "id": 67407,
+        "pronounce": "",
+        "word": "Intermediate goods"
+    },
+    {
+        "description": "(Econ) Kiểm định Fisher.",
+        "html": "<h1>F-test</h1><h3><i>//</i></h3><ul><li>(Econ) Kiểm định Fisher.</li></ul>",
+        "id": 67408,
+        "pronounce": "",
+        "word": "F-test"
+    },
+    {
+        "description": "(Econ) Chính sách thu chi ngân sách tự động.",
+        "html": "<h1>Automatic fiscal policy</h1><h3><i>//</i></h3><ul><li>(Econ) Chính sách thu chi ngân sách tự động.</li></ul>",
+        "id": 67409,
+        "pronounce": "",
+        "word": "Automatic fiscal policy"
+    },
+    {
+        "description": "(Econ) Chính sách thu chi ngân sách chủ động.",
+        "html": "<h1>Discretionary fiscal policy</h1><h3><i>//</i></h3><ul><li>(Econ) Chính sách thu chi ngân sách chủ động.</li></ul>",
+        "id": 67410,
+        "pronounce": "",
+        "word": "Discretionary fiscal policy"
+    },
+    {
+        "description": "(Econ) Chính sách thu chi ngân sách mở rộng.",
+        "html": "<h1>Expasionary fiscal policy</h1><h3><i>//</i></h3><ul><li>(Econ) Chính sách thu chi ngân sách mở rộng.</li></ul>",
+        "id": 67411,
+        "pronounce": "",
+        "word": "Expasionary fiscal policy"
+    },
+    {
+        "description": "(Econ) Chính sách thu chi ngân sách thu hẹp.",
+        "html": "<h1>Contractionary fiscal policy</h1><h3><i>//</i></h3><ul><li>(Econ) Chính sách thu chi ngân sách thu hẹp.</li></ul>",
+        "id": 67412,
+        "pronounce": "",
+        "word": "Contractionary fiscal policy"
+    },
+    {
+        "description": "(Econ) Biến số mang tính dòng chảy.",
+        "html": "<h1>Flow variable</h1><h3><i>//</i></h3><ul><li>(Econ) Biến số mang tính dòng chảy.</li></ul>",
+        "id": 67413,
+        "pronounce": "",
+        "word": "Flow variable"
+    },
+    {
+        "description": "(Econ) Giá trị tương lai.",
+        "html": "<h1>Future value</h1><h3><i>//</i></h3><ul><li>(Econ) Giá trị tương lai.</li></ul>",
+        "id": 67414,
+        "pronounce": "",
+        "word": "Future value"
+    },
+    {
+        "description": "(Econ) Chu kỳ vòng xoay rõ rệt.",
+        "html": "<h1>Sharp gyration</h1><h3><i>//</i></h3><ul><li>(Econ) Chu kỳ vòng xoay rõ rệt.</li></ul>",
+        "id": 67415,
+        "pronounce": "",
+        "word": "Sharp gyration"
+    },
+    {
+        "description": "(Econ) Đến hạn thanh toán.",
+        "html": "<h1>Maturity</h1><h3><i>//</i></h3><ul><li>(Econ) Đến hạn thanh toán.</li></ul>",
+        "id": 67416,
+        "pronounce": "",
+        "word": "Maturity"
+    },
+    {
+        "description": "(Econ) Những tài sản không sinh lợi.",
+        "html": "<h1>Non performings assets</h1><h3><i>//</i></h3><ul><li>(Econ) Những tài sản không sinh lợi.</li></ul>",
+        "id": 67417,
+        "pronounce": "",
+        "word": "Non performings assets"
+    },
+    {
+        "description": "(Econ) Những khoản vay không thực hiện đúng hợp đồng.",
+        "html": "<h1>Non performings loans</h1><h3><i>//</i></h3><ul><li>(Econ) Những khoản vay không thực hiện đúng hợp đồng.</li></ul>",
+        "id": 67418,
+        "pronounce": "",
+        "word": "Non performings loans"
+    },
+    {
+        "description": "(Econ) Phi ngoại thương",
+        "html": "<h1>Non trade</h1><h3><i>//</i></h3><ul><li>(Econ) Phi ngoại thương</li></ul>",
+        "id": 67419,
+        "pronounce": "",
+        "word": "Non trade"
+    },
+    {
+        "description": "(Econ) Giá chào.",
+        "html": "<h1>Offer price</h1><h3><i>//</i></h3><ul><li>(Econ) Giá chào.</li></ul>",
+        "id": 67420,
+        "pronounce": "",
+        "word": "Offer price"
+    },
+    {
+        "description": "(Econ) Chi phí cơ hội của vốn",
+        "html": "<h1>Opportunity cost of capital</h1><h3><i>//</i></h3><ul><li>(Econ) Chi phí cơ hội của vốn</li></ul>",
+        "id": 67421,
+        "pronounce": "",
+        "word": "Opportunity cost of capital"
+    },
+    {
+        "description": "(Econ) Kinh tế học vĩ mô của nền kinh tế mở.",
+        "html": "<h1>Open economy economics</h1><h3><i>//</i></h3><ul><li>(Econ) Kinh tế học vĩ mô của nền kinh tế mở.</li></ul>",
+        "id": 67422,
+        "pronounce": "",
+        "word": "Open economy economics"
+    },
+    {
+        "description": "(Econ) Các điều kiện khác không đổi.",
+        "html": "<h1>Other thíng equal</h1><h3><i>//</i></h3><ul><li>(Econ) Các điều kiện khác không đổi.</li></ul>",
+        "id": 67423,
+        "pronounce": "",
+        "word": "Other thíng equal"
+    },
+    {
+        "description": "(Econ) Của cải dự tính được.",
+        "html": "<h1>Perceived Wealth</h1><h3><i>//</i></h3><ul><li>(Econ) Của cải dự tính được.</li></ul>",
+        "id": 67424,
+        "pronounce": "",
+        "word": "Perceived Wealth"
+    },
+    {
+        "description": "(Econ) Chênh lệch tính bằng phần trăm.",
+        "html": "<h1>Percentage change</h1><h3><i>//</i></h3><ul><li>(Econ) Chênh lệch tính bằng phần trăm.</li></ul>",
+        "id": 67425,
+        "pronounce": "",
+        "word": "Percentage change"
+    },
+    {
+        "description": "(Econ) Khả năng lưu chuyển hoàn hảo của vốn.",
+        "html": "<h1>Perfect capital mobility</h1><h3><i>//</i></h3><ul><li>(Econ) Khả năng lưu chuyển hoàn hảo của vốn.</li></ul>",
+        "id": 67426,
+        "pronounce": "",
+        "word": "Perfect capital mobility"
+    },
+    {
+        "description": "(Econ) Thành quả.",
+        "html": "<h1>Performance</h1><h3><i>//</i></h3><ul><li>(Econ) Thành quả.</li></ul>",
+        "id": 67427,
+        "pronounce": "",
+        "word": "Performance"
+    },
+    {
+        "description": "(Econ) Vốn hiện vật và vốn tài chính.",
+        "html": "<h1>Physical and financial capital</h1><h3><i>//</i></h3><ul><li>(Econ) Vốn hiện vật và vốn tài chính.</li></ul>",
+        "id": 67428,
+        "pronounce": "",
+        "word": "Physical and financial capital"
+    },
+    {
+        "description": "(Econ) Thiên lệch đồng biến.",
+        "html": "<h1>Positive bais</h1><h3><i>//</i></h3><ul><li>(Econ) Thiên lệch đồng biến.</li></ul>",
+        "id": 67429,
+        "pronounce": "",
+        "word": "Positive bais"
+    },
+    {
+        "description": "(Econ) Cam kết trước.",
+        "html": "<h1>Pre-commitment</h1><h3><i>//</i></h3><ul><li>(Econ) Cam kết trước.</li></ul>",
+        "id": 67430,
+        "pronounce": "",
+        "word": "Pre-commitment"
+    },
+    {
+        "description": "(Econ) Xác suất có điều kiện.",
+        "html": "<h1>Conditional probality</h1><h3><i>//</i></h3><ul><li>(Econ) Xác suất có điều kiện.</li></ul>",
+        "id": 67431,
+        "pronounce": "",
+        "word": "Conditional probality"
+    },
+    {
+        "description": "(Econ) Xác suất tích luỹ.",
+        "html": "<h1>Cumulative probality</h1><h3><i>//</i></h3><ul><li>(Econ) Xác suất tích luỹ.</li></ul>",
+        "id": 67432,
+        "pronounce": "",
+        "word": "Cumulative probality"
+    },
+    {
+        "description": "(Econ) Lạm phát thuần tuý.",
+        "html": "<h1>Pure inflation</h1><h3><i>//</i></h3><ul><li>(Econ) Lạm phát thuần tuý.</li></ul>",
+        "id": 67433,
+        "pronounce": "",
+        "word": "Pure inflation"
+    },
+    {
+        "description": "(Econ) Góc toạ độ/ góc phần tư.",
+        "html": "<h1>Quadrant</h1><h3><i>//</i></h3><ul><li>(Econ) Góc toạ độ/ góc phần tư.</li></ul>",
+        "id": 67434,
+        "pronounce": "",
+        "word": "Quadrant"
+    },
+    {
+        "description": "(Econ) Tài sản bán thanh toán.",
+        "html": "<h1>Quasiliquid asset</h1><h3><i>//</i></h3><ul><li>(Econ) Tài sản bán thanh toán.</li></ul>",
+        "id": 67435,
+        "pronounce": "",
+        "word": "Quasiliquid asset"
+    },
+    {
+        "description": "(Econ) Tiền ký phát nhanh.",
+        "html": "<h1>Quick-disbursing fundss</h1><h3><i>//</i></h3><ul><li>(Econ) Tiền ký phát nhanh.</li></ul>",
+        "id": 67436,
+        "pronounce": "",
+        "word": "Quick-disbursing fundss"
+    },
+    {
+        "description": "(Econ) Thành năm phần bằng nhau.",
+        "html": "<h1>Quintile</h1><h3><i>//</i></h3><ul><li>(Econ) Thành năm phần bằng nhau.</li></ul>",
+        "id": 67437,
+        "pronounce": "",
+        "word": "Quintile"
+    },
+    {
+        "description": "(Econ) Các biến cố ngẫu nhiên.",
+        "html": "<h1>Ramdom events</h1><h3><i>//</i></h3><ul><li>(Econ) Các biến cố ngẫu nhiên.</li></ul>",
+        "id": 67438,
+        "pronounce": "",
+        "word": "Ramdom events"
+    },
+    {
+        "description": "(Econ) Miền giá trị.",
+        "html": "<h1>Range of values</h1><h3><i>//</i></h3><ul><li>(Econ) Miền giá trị.</li></ul>",
+        "id": 67439,
+        "pronounce": "",
+        "word": "Range of values"
+    },
+    {
+        "description": "(Econ) Suất sinh lợi từ đầu tư.",
+        "html": "<h1>Rate of return on investment</h1><h3><i>//</i></h3><ul><li>(Econ) Suất sinh lợi từ đầu tư.</li></ul>",
+        "id": 67440,
+        "pronounce": "",
+        "word": "Rate of return on investment"
+    },
+    {
+        "description": "(Econ) Nội suất thu hồi vốn/ tỷ lệ hoàn vốn nội bộ.",
+        "html": "<h1>Interna Rate of return</h1><h3><i>//</i></h3><ul><li>(Econ) Nội suất thu hồi vốn/ tỷ lệ hoàn vốn nội bộ.</li></ul>",
+        "id": 67441,
+        "pronounce": "",
+        "word": "Interna Rate of return"
+    },
+    {
+        "description": "(Econ) Giá trị có thể đánh thuế.",
+        "html": "<h1>Rateable value</h1><h3><i>//</i></h3><ul><li>(Econ) Giá trị có thể đánh thuế.</li></ul>",
+        "id": 67442,
+        "pronounce": "",
+        "word": "Rateable value"
+    },
+    {
+        "description": "(Econ) Các giá thực tế/ tương đối.",
+        "html": "<h1>Real</h1><h3><i>/relative price/</i></h3><ul><li>(Econ) Các giá thực tế/ tương đối.</li></ul>",
+        "id": 67443,
+        "pronounce": "relative price",
+        "word": "Real"
+    },
+    {
+        "description": "(Econ) Ảnh hưỏng của số dư tiền thực/ hiệu ứng tiền thực.",
+        "html": "<h1>Real balance effect</h1><h3><i>//</i></h3><ul><li>(Econ) Ảnh hưỏng của số dư tiền thực/ hiệu ứng tiền thực.</li></ul>",
+        "id": 67444,
+        "pronounce": "",
+        "word": "Real balance effect"
+    },
+    {
+        "description": "(Econ) Mức lãi suất thực tế.",
+        "html": "<h1>Real interest rate.</h1><h3><i>//</i></h3><ul><li>(Econ) Mức lãi suất thực tế.</li></ul>",
+        "id": 67445,
+        "pronounce": "",
+        "word": "Real interest rate."
+    },
+    {
+        "description": "(Econ) Giá thực tế và thu nhập thực tế",
+        "html": "<h1>Real prices and real income</h1><h3><i>//</i></h3><ul><li>(Econ) Giá thực tế và thu nhập thực tế</li></ul>",
+        "id": 67446,
+        "pronounce": "",
+        "word": "Real prices and real income"
+    },
+    {
+        "description": "(Econ) Số thu.",
+        "html": "<h1>Receipt</h1><h3><i>//</i></h3><ul><li>(Econ) Số thu.</li></ul>",
+        "id": 67447,
+        "pronounce": "",
+        "word": "Receipt"
+    },
+    {
+        "description": "(Econ) Hố, khoảng trống suy thoái.",
+        "html": "<h1>Recessionary gap</h1><h3><i>//</i></h3><ul><li>(Econ) Hố, khoảng trống suy thoái.</li></ul>",
+        "id": 67448,
+        "pronounce": "",
+        "word": "Recessionary gap"
+    },
+    {
+        "description": "(Econ) Sự đình trệ về lâu dài.",
+        "html": "<h1>Secular stagnation</h1><h3><i>//</i></h3><ul><li>(Econ) Sự đình trệ về lâu dài.</li></ul>",
+        "id": 67449,
+        "pronounce": "",
+        "word": "Secular stagnation"
+    },
+    {
+        "description": "(Econ) Tự tài trợ.",
+        "html": "<h1>Self-financing</h1><h3><i>//</i></h3><ul><li>(Econ) Tự tài trợ.</li></ul>",
+        "id": 67450,
+        "pronounce": "",
+        "word": "Self-financing"
+    },
+    {
+        "description": "(Econ) Cổ đông.",
+        "html": "<h1>Shareholder</h1><h3><i>//</i></h3><ul><li>(Econ) Cổ đông.</li></ul>",
+        "id": 67451,
+        "pronounce": "",
+        "word": "Shareholder"
+    },
+    {
+        "description": "(Econ) Chi phí giày da của lạm phát.",
+        "html": "<h1>Shoe-leather cost of inflation</h1><h3><i>//</i></h3><ul><li>(Econ) Chi phí giày da của lạm phát.</li></ul>",
+        "id": 67452,
+        "pronounce": "",
+        "word": "Shoe-leather cost of inflation"
+    },
+    {
+        "description": "(Econ) Hợp đồng dự phòng.",
+        "html": "<h1>Stand-by arrangement</h1><h3><i>/agreement/</i></h3><ul><li>(Econ) Hợp đồng dự phòng.</li></ul>",
+        "id": 67453,
+        "pronounce": "agreement",
+        "word": "Stand-by arrangement"
+    },
+    {
+        "description": "(Econ) Ý thức hệ/ mô hình/kiểu mẫu tiêu chuẩn.",
+        "html": "<h1>Standard paradigm</h1><h3><i>//</i></h3><ul><li>(Econ) Ý thức hệ/ mô hình/kiểu mẫu tiêu chuẩn.</li></ul>",
+        "id": 67454,
+        "pronounce": "",
+        "word": "Standard paradigm"
+    },
+    {
+        "description": "(Econ) Cản trở chiến lược đối với nhập ngành.",
+        "html": "<h1>Strategic entry barrier</h1><h3><i>//</i></h3><ul><li>(Econ) Cản trở chiến lược đối với nhập ngành.</li></ul>",
+        "id": 67455,
+        "pronounce": "",
+        "word": "Strategic entry barrier"
+    },
+    {
+        "description": "(Econ) Ngăn chặn nhập ngành có tính chiến lược.",
+        "html": "<h1>Strategic entry deterrence</h1><h3><i>//</i></h3><ul><li>(Econ) Ngăn chặn nhập ngành có tính chiến lược.</li></ul>",
+        "id": 67456,
+        "pronounce": "",
+        "word": "Strategic entry deterrence"
+    },
+    {
+        "description": "(Econ) Chiến lược.",
+        "html": "<h1>Strategy</h1><h3><i>//</i></h3><ul><li>(Econ) Chiến lược.</li></ul>",
+        "id": 67457,
+        "pronounce": "",
+        "word": "Strategy"
+    },
+    {
+        "description": "(Econ) Các khoản vay để điều chỉnh cơ cấu kinh tế.",
+        "html": "<h1>Structural adjustment loans</h1><h3><i>//</i></h3><ul><li>(Econ) Các khoản vay để điều chỉnh cơ cấu kinh tế.</li></ul>",
+        "id": 67458,
+        "pronounce": "",
+        "word": "Structural adjustment loans"
+    },
+    {
+        "description": "(Econ) Nông nghiệp tự cung cấp tư liệu.",
+        "html": "<h1>Subsistence agriculture</h1><h3><i>//</i></h3><ul><li>(Econ) Nông nghiệp tự cung cấp tư liệu.</li></ul>",
+        "id": 67459,
+        "pronounce": "",
+        "word": "Subsistence agriculture"
+    },
+    {
+        "description": "(Econ) Vụ mùa tự tiêu.",
+        "html": "<h1>Subsistence crop</h1><h3><i>//</i></h3><ul><li>(Econ) Vụ mùa tự tiêu.</li></ul>",
+        "id": 67460,
+        "pronounce": "",
+        "word": "Subsistence crop"
+    },
+    {
+        "description": "(Econ) Lương vừa đủ sống.",
+        "html": "<h1>Subsistence wage</h1><h3><i>//</i></h3><ul><li>(Econ) Lương vừa đủ sống.</li></ul>",
+        "id": 67461,
+        "pronounce": "",
+        "word": "Subsistence wage"
+    },
+    {
+        "description": "(Econ) Hàng thay thế và hàng bổ trợ.",
+        "html": "<h1>Substitutes and complemént</h1><h3><i>//</i></h3><ul><li>(Econ) Hàng thay thế và hàng bổ trợ.</li></ul>",
+        "id": 67462,
+        "pronounce": "",
+        "word": "Substitutes and complemént"
+    },
+    {
+        "description": "(Econ) Sự hiểu lầm về chi phí chìm.",
+        "html": "<h1>Sunk cost fallacy</h1><h3><i>//</i></h3><ul><li>(Econ) Sự hiểu lầm về chi phí chìm.</li></ul>",
+        "id": 67463,
+        "pronounce": "",
+        "word": "Sunk cost fallacy"
+    },
+    {
+        "description": "(Econ) Các ngành mới mọc lên và các ngành sắp lặn (hết thời).",
+        "html": "<h1>Sunrise and sunset industries</h1><h3><i>//</i></h3><ul><li>(Econ) Các ngành mới mọc lên và các ngành sắp lặn (hết thời).</li></ul>",
+        "id": 67464,
+        "pronounce": "",
+        "word": "Sunrise and sunset industries"
+    },
+    {
+        "description": "(Econ) Siêu lợi nhuận/ Lợi nhuận siêu ngạch.",
+        "html": "<h1>Supernormal profits</h1><h3><i>//</i></h3><ul><li>(Econ) Siêu lợi nhuận/ Lợi nhuận siêu ngạch.</li></ul>",
+        "id": 67465,
+        "pronounce": "",
+        "word": "Supernormal profits"
+    },
+    {
+        "description": "(Econ) Trợ cấp bổ sung.",
+        "html": "<h1>Supplementary benefit</h1><h3><i>//</i></h3><ul><li>(Econ) Trợ cấp bổ sung.</li></ul>",
+        "id": 67466,
+        "pronounce": "",
+        "word": "Supplementary benefit"
+    },
+    {
+        "description": "(Econ) Kinh tế học trọng cung.",
+        "html": "<h1>Supply-side economics</h1><h3><i>//</i></h3><ul><li>(Econ) Kinh tế học trọng cung.</li></ul>",
+        "id": 67467,
+        "pronounce": "",
+        "word": "Supply-side economics"
+    },
+    {
+        "description": "(Econ) Đối xứng",
+        "html": "<h1>Symmetric</h1><h3><i>//</i></h3><ul><li>(Econ) Đối xứng</li></ul>",
+        "id": 67468,
+        "pronounce": "",
+        "word": "Symmetric"
+    },
+    {
+        "description": "(Econ) Phii / bất đối xứng",
+        "html": "<h1>Non-symmetric</h1><h3><i>//</i></h3><ul><li>(Econ) Phii / bất đối xứng</li></ul>",
+        "id": 67469,
+        "pronounce": "",
+        "word": "Non-symmetric"
+    },
+    {
+        "description": "(Econ) Cho vay liên hiệp.",
+        "html": "<h1>Syndicate loan</h1><h3><i>//</i></h3><ul><li>(Econ) Cho vay liên hiệp.</li></ul>",
+        "id": 67470,
+        "pronounce": "",
+        "word": "Syndicate loan"
+    },
+    {
+        "description": "(Econ) Sở thích, thị hiếu.",
+        "html": "<h1>Taste</h1><h3><i>//</i></h3><ul><li>(Econ) Sở thích, thị hiếu.</li></ul>",
+        "id": 67471,
+        "pronounce": "",
+        "word": "Taste"
+    },
+    {
+        "description": "(Econ) Ai phải chịu thuế.",
+        "html": "<h1>Tax incident</h1><h3><i>//</i></h3><ul><li>(Econ) Ai phải chịu thuế.</li></ul>",
+        "id": 67472,
+        "pronounce": "",
+        "word": "Tax incident"
+    },
+    {
+        "description": "(Econ) Chênh lệch giá do thuế.",
+        "html": "<h1>Tax wedge</h1><h3><i>//</i></h3><ul><li>(Econ) Chênh lệch giá do thuế.</li></ul>",
+        "id": 67473,
+        "pronounce": "",
+        "word": "Tax wedge"
+    },
+    {
+        "description": "(Econ) Chính sách thu nhập dựa vào thuế.",
+        "html": "<h1>Tax-base incomes Policy</h1><h3><i>//</i></h3><ul><li>(Econ) Chính sách thu nhập dựa vào thuế.</li></ul>",
+        "id": 67474,
+        "pronounce": "",
+        "word": "Tax-base incomes Policy"
+    },
+    {
+        "description": "(Econ) Thay đổi công nghệ qua R&D.",
+        "html": "<h1>Technical change through R&D</h1><h3><i>//</i></h3><ul><li>(Econ) Thay đổi công nghệ qua R&D.</li></ul>",
+        "id": 67475,
+        "pronounce": "",
+        "word": "Technical change through R&D"
+    },
+    {
+        "description": "(Econ) Tính hiệu dụng về mặt kỹ thuật.",
+        "html": "<h1>Technical efficiency</h1><h3><i>//</i></h3><ul><li>(Econ) Tính hiệu dụng về mặt kỹ thuật.</li></ul>",
+        "id": 67476,
+        "pronounce": "",
+        "word": "Technical efficiency"
+    },
+    {
+        "description": "(Econ) Tri thức, kiến thức, kỹ thuật",
+        "html": "<h1>Technical knowlwdge</h1><h3><i>//</i></h3><ul><li>(Econ) Tri thức, kiến thức, kỹ thuật</li></ul>",
+        "id": 67477,
+        "pronounce": "",
+        "word": "Technical knowlwdge"
+    },
+    {
+        "description": "(Econ) Kiểm nghiệm một mô hình thực tế.",
+        "html": "<h1>Testing an economic model</h1><h3><i>//</i></h3><ul><li>(Econ) Kiểm nghiệm một mô hình thực tế.</li></ul>",
+        "id": 67478,
+        "pronounce": "",
+        "word": "Testing an economic model"
+    },
+    {
+        "description": "(Econ) Kế hoạch Corset.",
+        "html": "<h1>The Corset</h1><h3><i>//</i></h3><ul><li>(Econ) Kế hoạch Corset.</li></ul>",
+        "id": 67479,
+        "pronounce": "",
+        "word": "The Corset"
+    },
+    {
+        "description": "(Econ) Khả thương.",
+        "html": "<h1>Tradable</h1><h3><i>//</i></h3><ul><li>(Econ) Khả thương.</li></ul>",
+        "id": 67480,
+        "pronounce": "",
+        "word": "Tradable"
+    },
+    {
+        "description": "(Econ) Cán cân thương mại.",
+        "html": "<h1>Trade balance</h1><h3><i>//</i></h3><ul><li>(Econ) Cán cân thương mại.</li></ul>",
+        "id": 67481,
+        "pronounce": "",
+        "word": "Trade balance"
+    },
+    {
+        "description": "(Econ) Hàng ngoại thương và phi ngoại thương.",
+        "html": "<h1>Traded and non-traded (goods)</h1><h3><i>//</i></h3><ul><li>(Econ) Hàng ngoại thương và phi ngoại thương.</li></ul>",
+        "id": 67482,
+        "pronounce": "",
+        "word": "Traded and non-traded (goods)"
+    },
+    {
+        "description": "(Econ) Công đoàn.",
+        "html": "<h1>Trade unions</h1><h3><i>//</i></h3><ul><li>(Econ) Công đoàn.</li></ul>",
+        "id": 67483,
+        "pronounce": "",
+        "word": "Trade unions"
+    },
+    {
+        "description": "(Econ) Những động cơ giao dịch.",
+        "html": "<h1>Transaction motives</h1><h3><i>//</i></h3><ul><li>(Econ) Những động cơ giao dịch.</li></ul>",
+        "id": 67484,
+        "pronounce": "",
+        "word": "Transaction motives"
+    },
+    {
+        "description": "(Econ) Những động cơ dự phòng.",
+        "html": "<h1>Precaution motives</h1><h3><i>//</i></h3><ul><li>(Econ) Những động cơ dự phòng.</li></ul>",
+        "id": 67485,
+        "pronounce": "",
+        "word": "Precaution motives"
+    },
+    {
+        "description": "(Econ) Những động cơ tài sản.",
+        "html": "<h1>Assets motives</h1><h3><i>//</i></h3><ul><li>(Econ) Những động cơ tài sản.</li></ul>",
+        "id": 67486,
+        "pronounce": "",
+        "word": "Assets motives"
+    },
+    {
+        "description": "(Econ) Trợ cấp bằng hiện vật.",
+        "html": "<h1>Transfer in kind</h1><h3><i>//</i></h3><ul><li>(Econ) Trợ cấp bằng hiện vật.</li></ul>",
+        "id": 67487,
+        "pronounce": "",
+        "word": "Transfer in kind"
+    },
+    {
+        "description": "(Econ) Cơ chế lan chuyền.",
+        "html": "<h1>Transmission mechanism</h1><h3><i>//</i></h3><ul><li>(Econ) Cơ chế lan chuyền.</li></ul>",
+        "id": 67488,
+        "pronounce": "",
+        "word": "Transmission mechanism"
+    },
+    {
+        "description": "(Econ) Đường biểu thị xu thế sản lượng.",
+        "html": "<h1>Trend output path</h1><h3><i>//</i></h3><ul><li>(Econ) Đường biểu thị xu thế sản lượng.</li></ul>",
+        "id": 67489,
+        "pronounce": "",
+        "word": "Trend output path"
+    },
+    {
+        "description": "(Econ) Bộ tài chính, ngân khố.",
+        "html": "<h1>Treasury</h1><h3><i>//</i></h3><ul><li>(Econ) Bộ tài chính, ngân khố.</li></ul>",
+        "id": 67490,
+        "pronounce": "",
+        "word": "Treasury"
+    },
+    {
+        "description": "(Econ) (hệ thống) giá hai phần.",
+        "html": "<h1>Tow-path tariffs</h1><h3><i>//</i></h3><ul><li>(Econ) (hệ thống) giá hai phần.</li></ul>",
+        "id": 67491,
+        "pronounce": "",
+        "word": "Tow-path tariffs"
+    },
+    {
+        "description": "(Econ) Tỷ lệ, sự thất nghiệp bắt buộc.",
+        "html": "<h1>Unvoluntary unemployment</h1><h3><i>//</i></h3><ul><li>(Econ) Tỷ lệ, sự thất nghiệp bắt buộc.</li></ul>",
+        "id": 67492,
+        "pronounce": "",
+        "word": "Unvoluntary unemployment"
+    },
+    {
+        "description": "(Econ) Tối đa hoá độ thoả dụng.",
+        "html": "<h1>Utility maximization</h1><h3><i>//</i></h3><ul><li>(Econ) Tối đa hoá độ thoả dụng.</li></ul>",
+        "id": 67493,
+        "pronounce": "",
+        "word": "Utility maximization"
+    },
+    {
+        "description": "(Econ) Biến số.",
+        "html": "<h1>Variable</h1><h3><i>//</i></h3><ul><li>(Econ) Biến số.</li></ul>",
+        "id": 67494,
+        "pronounce": "",
+        "word": "Variable"
+    },
+    {
+        "description": "(Econ) Độ biến thiên.",
+        "html": "<h1>Variability</h1><h3><i>//</i></h3><ul><li>(Econ) Độ biến thiên.</li></ul>",
+        "id": 67495,
+        "pronounce": "",
+        "word": "Variability"
+    },
+    {
+        "description": "(Econ) Biến số giả.",
+        "html": "<h1>Dummy Variable</h1><h3><i>//</i></h3><ul><li>(Econ) Biến số giả.</li></ul>",
+        "id": 67496,
+        "pronounce": "",
+        "word": "Dummy Variable"
+    },
+    {
+        "description": "(Econ) Biến số ngẫu nhiên.",
+        "html": "<h1>Stochastic Variable</h1><h3><i>//</i></h3><ul><li>(Econ) Biến số ngẫu nhiên.</li></ul>",
+        "id": 67497,
+        "pronounce": "",
+        "word": "Stochastic Variable"
+    },
+    {
+        "description": "(Econ) Các yếu tố sản xuất thay đổi.",
+        "html": "<h1>Variable factor</h1><h3><i>//</i></h3><ul><li>(Econ) Các yếu tố sản xuất thay đổi.</li></ul>",
+        "id": 67498,
+        "pronounce": "",
+        "word": "Variable factor"
+    },
+    {
+        "description": "(Econ) Khả năng thành tựu, tính khả thi.",
+        "html": "<h1>Viability</h1><h3><i>//</i></h3><ul><li>(Econ) Khả năng thành tựu, tính khả thi.</li></ul>",
+        "id": 67499,
+        "pronounce": "",
+        "word": "Viability"
+    },
+    {
+        "description": "(Econ) Vòng quay của tiền, tốc độ lưu chuyển của tiền.",
+        "html": "<h1>Velocity of money</h1><h3><i>//</i></h3><ul><li>(Econ) Vòng quay của tiền, tốc độ lưu chuyển của tiền.</li></ul>",
+        "id": 67500,
+        "pronounce": "",
+        "word": "Velocity of money"
+    },
+    {
+        "description": "(Econ) Tính dễ biến động.",
+        "html": "<h1>Volatility</h1><h3><i>//</i></h3><ul><li>(Econ) Tính dễ biến động.</li></ul>",
+        "id": 67501,
+        "pronounce": "",
+        "word": "Volatility"
+    },
+    {
+        "description": "(Econ) Tính linh hoạt của giá cả và lương.",
+        "html": "<h1>Wage and price flexibility</h1><h3><i>//</i></h3><ul><li>(Econ) Tính linh hoạt của giá cả và lương.</li></ul>",
+        "id": 67502,
+        "pronounce": "",
+        "word": "Wage and price flexibility"
+    },
+    {
+        "description": "(Econ) Tỷ số tiền công- tiền thuê vốn.",
+        "html": "<h1>Wage-rental ratio</h1><h3><i>//</i></h3><ul><li>(Econ) Tỷ số tiền công- tiền thuê vốn.</li></ul>",
+        "id": 67503,
+        "pronounce": "",
+        "word": "Wage-rental ratio"
+    },
+    {
+        "description": "(Econ) Lãi trên nợ nước ngoài.",
+        "html": "<h1>Yield on external debt</h1><h3><i>//</i></h3><ul><li>(Econ) Lãi trên nợ nước ngoài.</li></ul>",
+        "id": 67504,
+        "pronounce": "",
+        "word": "Yield on external debt"
+    },
+    {
+        "description": "(Econ) Lợi nhuận từ đầu tư.",
+        "html": "<h1>Yield on investment</h1><h3><i>//</i></h3><ul><li>(Econ) Lợi nhuận từ đầu tư.</li></ul>",
+        "id": 67505,
+        "pronounce": "",
+        "word": "Yield on investment"
+    },
+    {
+        "description": "(Econ) Giá trị của Z.",
+        "html": "<h1>Z-score</h1><h3><i>//</i></h3><ul><li>(Econ) Giá trị của Z.</li></ul>",
+        "id": 67506,
+        "pronounce": "",
+        "word": "Z-score"
+    },
+    {
+        "description": "(Econ) Đề xuất tăng trưởng bằng không.",
+        "html": "<h1>Zero growth proposal</h1><h3><i>//</i></h3><ul><li>(Econ) Đề xuất tăng trưởng bằng không.</li></ul>",
+        "id": 67507,
+        "pronounce": "",
+        "word": "Zero growth proposal"
+    },
+    {
+        "description": "người chơi viôlôngxen, người chơi xelô",
+        "html": "<h1>'cellist</h1><h3><i>//</i></h3><ul><li>người chơi viôlôngxen, người chơi xelô</li></ul>",
+        "id": 67508,
+        "pronounce": "",
+        "word": "'cellist"
+    },
+    {
+        "description": "(vt của parachutist) lính nhảy dù",
+        "html": "<h1>'chutist</h1><h3><i>//</i></h3>* danh từ<br/><ul><li>(vt của parachutist) lính nhảy dù</li></ul>",
+        "id": 67509,
+        "pronounce": "",
+        "word": "'chutist"
+    },
+    {
+        "description": "(thông tục)",
+        "html": "<h1>'d</h1><h3><i>//</i></h3><ul><li>(thông tục)</li><li>(viết tắt) của had,  should,  would</li></ul>",
+        "id": 67510,
+        "pronounce": "",
+        "word": "'d"
+    },
+    {
+        "description": "(thông tục) (viết tắt) của them",
+        "html": "<h1>'em</h1><h3><i>//</i></h3>* danh từ<br/><ul><li>(thông tục) (viết tắt) của them</li></ul>",
+        "id": 67511,
+        "pronounce": "",
+        "word": "'em"
+    },
+    {
+        "description": "(thơ ca) (như) against",
+        "html": "<h1>'gainst</h1><h3><i>//</i></h3>* giới từ<br/><ul><li>(thơ ca) (như) against</li></ul>",
+        "id": 67512,
+        "pronounce": "",
+        "word": "'gainst"
+    },
+    {
+        "description": "(vt của will)",
+        "html": "<h1>'ll</h1><h3><i>//</i></h3><ul><li>(vt của will)</li></ul>",
+        "id": 67513,
+        "pronounce": "",
+        "word": "'ll"
+    },
+    {
+        "description": "(viết tắt) của is,  has,  us,  does",
+        "html": "<h1>'s</h1><h3><i>//</i></h3><ul><li>(viết tắt) của is,  has,  us,  does</li><li>(thông tục) (như) is<ul style=\"list-style-type:circle\"><li> it 's raining:<i>trời mưa</i></li><li> what 's the matter?:<i>cái gì đấy?</i></li><li> she 's gone:<i>cô ta đã đi khỏi</i></li></ul></li><li>(thông tục) (như) has<ul style=\"list-style-type:circle\"><li> he 's done it:<i>anh ấy đã làm việc đó rồi</i></li></ul></li><li>(thông tục) (như) us</li><li>let 's go</li><li>nào chúng ta đi thôi</li><li>(thông tục) (như) does<ul style=\"list-style-type:circle\"><li> what 's he say about it?:<i>ý kiến của anh ấy về việc đó như thế nào?</i></li></ul></li></ul>",
+        "id": 67514,
+        "pronounce": "",
+        "word": "'s"
+    },
+    {
+        "description": "interj",
+        "html": "<h1>'shun</h1><h3><i>//</i></h3><ul><li>interj</li><li>((viết tắt) của attention) nghiêm!</li></ul>",
+        "id": 67515,
+        "pronounce": "",
+        "word": "'shun"
+    },
+    {
+        "description": "xem tec",
+        "html": "<h1>'tec</h1><h3><i>//</i></h3><ul><li>xem tec</li></ul>",
+        "id": 67516,
+        "pronounce": "",
+        "word": "'tec"
+    },
+    {
+        "description": "(vt của it is)",
+        "html": "<h1>'tis</h1><h3><i>//</i></h3><ul><li>(vt của it is)</li></ul>",
+        "id": 67517,
+        "pronounce": "",
+        "word": "'tis"
+    },
+    {
+        "description": "(vt của it was)",
+        "html": "<h1>'twas</h1><h3><i>//</i></h3><ul><li>(vt của it was)</li></ul>",
+        "id": 67518,
+        "pronounce": "",
+        "word": "'twas"
+    },
+    {
+        "description": "(vt của between)",
+        "html": "<h1>'tween</h1><h3><i>//</i></h3>* giới từ<br/><ul><li>(vt của between)</li></ul>",
+        "id": 67519,
+        "pronounce": "",
+        "word": "'tween"
+    },
+    {
+        "description": "(vt của it were)",
+        "html": "<h1>'twere</h1><h3><i>//</i></h3><ul><li>(vt của it were)</li></ul>",
+        "id": 67520,
+        "pronounce": "",
+        "word": "'twere"
+    },
+    {
+        "description": "(viết tắt) của it will",
+        "html": "<h1>'twill</h1><h3><i>//</i></h3><ul><li>(viết tắt) của it will</li></ul>",
+        "id": 67521,
+        "pronounce": "",
+        "word": "'twill"
+    },
+    {
+        "description": "(vt của betwixt)",
+        "html": "<h1>'twixt</h1><h3><i>//</i></h3>* giới từ<br/><ul><li>(vt của betwixt)</li></ul>",
+        "id": 67522,
+        "pronounce": "",
+        "word": "'twixt"
+    },
+    {
+        "description": "<thgt>(như one) một",
+        "html": "<h1>'un</h1><h3><i>//</i></h3>* danh từ<br/><ul><li><thgt>(như one) một</li></ul>",
+        "id": 67523,
+        "pronounce": "",
+        "word": "'un"
+    },
+    {
+        "description": "(vt của have)",
+        "html": "<h1>'ve</h1><h3><i>//</i></h3><ul><li>(vt của have)</li></ul>",
+        "id": 67524,
+        "pronounce": "",
+        "word": "'ve"
+    },
+    {
+        "description": "hình thái ghép chỉ sự đoán trước",
+        "html": "<h1>-mancy</h1><h3><i>//</i></h3><ul><li>hình thái ghép chỉ sự đoán trước</li></ul>",
+        "id": 67525,
+        "pronounce": "",
+        "word": "-mancy"
+    },
+    {
+        "description": "hình thái ghép có nghĩa tài nghệ",
+        "html": "<h1>-manship</h1><h3><i>//</i></h3><ul><li>hình thái ghép có nghĩa tài nghệ</li></ul>",
+        "id": 67526,
+        "pronounce": "",
+        "word": "-manship"
+    },
+    {
+        "description": "hậu tố tạo danh từ có nghĩa:sự, quá trìnhthái độ, tình trạngsản phẩm, kết quả, nơi",
+        "html": "<h1>-ment</h1><h3><i>//</i></h3><ul><li>hậu tố tạo danh từ có nghĩa:sự, quá trìnhthái độ, tình trạngsản phẩm, kết quả, nơi</li></ul>",
+        "id": 67527,
+        "pronounce": "",
+        "word": "-ment"
+    },
+    {
+        "description": "hậu tố tạo danh từ có nghĩa là polyme (trùng phân) hoặc isome (đồng phân)",
+        "html": "<h1>-mer</h1><h3><i>//</i></h3><ul><li>hậu tố tạo danh từ có nghĩa là polyme (trùng phân) hoặc isome (đồng phân)</li></ul>",
+        "id": 67528,
+        "pronounce": "",
+        "word": "-mer"
+    },
+    {
+        "description": "hình thái ghép tạo tính từ có nghĩa: có một số bộ phận nhất định",
+        "html": "<h1>-merous</h1><h3><i>//</i></h3><ul><li>hình thái ghép tạo tính từ có nghĩa: có một số bộ phận nhất định</li></ul>",
+        "id": 67529,
+        "pronounce": "",
+        "word": "-merous"
+    },
+    {
+        "description": "hình thái ở một số danh từ gốc động từ; tính từ chỉ :hoạt động kết quả hoạt động :",
+        "html": "<h1>-th</h1><h3><i>//</i></h3><ul><li>hình thái ở một số danh từ gốc động từ; tính từ chỉ :hoạt động kết quả hoạt động :</li><li>growth</li><li>sự phát triển;</li><li>tilth</li><li>sự trồng trọt;</li><li>tình trạng hoặc phẩm chất :</li><li>health</li><li>sức khoẻ;</li><li>youth</li><li>tuổi trẻ;</li><li>(hay eth) hình thái ở số từ thứ tự; kể từ thứ tự :</li><li>fourth</li><li>thứ tư</li><li>fifth</li><li>thứ năm</li><li>twentieth</li><li>thứ hai mươi</li><li>thousandth</li><li>thứ một nghìn<ul style=\"list-style-type:circle\"><li> three hundred and forty fifth:<i>thứ ba trăm bốn lăm</i></li></ul></li><li>hình thái ở một số danh từ gốc động từ; tính từ chỉ :hoạt động kết quả hoạt động :</li><li>growth</li><li>sự phát triển;</li><li>tilth</li><li>sự trồng trọt;</li><li>tình trạng hoặc phẩm chất :</li><li>health</li><li>sức khoẻ;</li><li>youth</li><li>tuổi trẻ;</li><li>(hay eth) hình thái ở số từ thứ tự; kể từ thứ tự :</li><li>fourth</li><li>thứ tư</li><li>fifth</li><li>thứ năm</li><li>twentieth</li><li>thứ hai mươi</li><li>thousandth</li><li>thứ một nghìn<ul style=\"list-style-type:circle\"><li> three hundred and forty fifth:<i>thứ ba trăm bốn lăm</i></li></ul></li></ul>",
+        "id": 67530,
+        "pronounce": "",
+        "word": "-th"
+    },
+    {
+        "description": "hình thái ghép tạo tính từ",
+        "html": "<h1>-trichous</h1><h3><i>//</i></h3><ul><li>hình thái ghép tạo tính từ</li><li>có lông kiểu nào đấy<ul style=\"list-style-type:circle\"><li> peritrichous:<i>có vành lông rung</i></li></ul></li></ul>",
+        "id": 67531,
+        "pronounce": "",
+        "word": "-trichous"
+    },
+    {
+        "description": "hậu tố tạo danh từ số nhiều -trices",
+        "html": "<h1>-trix</h1><h3><i>//</i></h3><ul><li>hậu tố tạo danh từ số nhiều -trices</li></ul>",
+        "id": 67532,
+        "pronounce": "",
+        "word": "-trix"
+    },
+    {
+        "description": "hậu tố tạo danh từ có nghĩa",
+        "html": "<h1>-tron</h1><h3><i>//</i></h3><ul><li>hậu tố tạo danh từ có nghĩa</li><li>ống chân không</li><li>magnetron</li><li>manhêtron</li><li>biện pháp xử lý các hạt trong nguyên tử</li><li>cyclotron</li><li>xiclotron</li></ul>",
+        "id": 67533,
+        "pronounce": "",
+        "word": "-tron"
+    },
+    {
+        "description": "hình thái ghép có nghĩa",
+        "html": "<h1>-trophin</h1><h3><i>//</i></h3><ul><li>hình thái ghép có nghĩa</li><li>chất kích thích<ul style=\"list-style-type:circle\"><li> gonadotrophin hocmon:<i>kích thích tuyến sinh dục</i></li></ul></li></ul>",
+        "id": 67534,
+        "pronounce": "",
+        "word": "-trophin"
+    },
+    {
+        "description": "hậu tố tạo danh từ",
+        "html": "<h1>-tude</h1><h3><i>//</i></h3><ul><li>hậu tố tạo danh từ</li><li>sự, tính chất</li><li>altitude</li><li>độ cao</li><li>plenitude</li><li>sự đầy đủ</li></ul>",
+        "id": 67535,
+        "pronounce": "",
+        "word": "-tude"
+    },
+    {
+        "description": "hậu tố để tạo những con số có bao nhiêu lần mười",
+        "html": "<h1>-ty</h1><h3><i>//</i></h3><ul><li>hậu tố để tạo những con số có bao nhiêu lần mười</li><li>twenty</li><li>hai mươi</li><li>fifty</li><li>năm mươi</li><li>hậu tố tạo danh từ chỉ tính chất, điều kiện</li><li>puberty</li><li>tuổi dậy thì</li><li>cruelty</li><li>tính tàn ác</li></ul>",
+        "id": 67536,
+        "pronounce": "",
+        "word": "-ty"
+    },
+    {
+        "description": "hình thái cấu tạo các phó từ gốc tính từ và danh từ chỉ cách thức hành động; phương hướng và vị trí",
+        "html": "<h1>-way</h1><h3><i>//</i></h3><ul><li>hình thái cấu tạo các phó từ gốc tính từ và danh từ chỉ cách thức hành động; phương hướng và vị trí</li><li>broadways</li><li>theo chiều rộng, chiều ngang</li><li>longways</li><li>theo chiều dài</li><li>lengthways</li><li>theo chiều dọc</li><li>endways</li><li>đuôi về phía trước</li></ul>",
+        "id": 67537,
+        "pronounce": "",
+        "word": "-way"
+    },
+]
