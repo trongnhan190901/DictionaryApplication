@@ -12273,4 +12273,32 @@
         "pronounce": "",
         "word": "nymphosis"
     },
+ {
+        "description": "(Econ) Phii / bất đối xứng",
+        "html": "<h1>Non-symmetric</h1><h3><i>//</i></h3><ul><li>(Econ) Phii / bất đối xứng</li></ul>",
+        "id": 67469,
+        "pronounce": "",
+        "word": "Non-symmetric"
+    },
+    {
+        "description": "(Econ) Những tài sản không sinh lợi.",
+        "html": "<h1>Non performings assets</h1><h3><i>//</i></h3><ul><li>(Econ) Những tài sản không sinh lợi.</li></ul>",
+        "id": 67417,
+        "pronounce": "",
+        "word": "Non performings assets"
+    },
+    {
+        "description": "(Econ) Những khoản vay không thực hiện đúng hợp đồng.",
+        "html": "<h1>Non performings loans</h1><h3><i>//</i></h3><ul><li>(Econ) Những khoản vay không thực hiện đúng hợp đồng.</li></ul>",
+        "id": 67418,
+        "pronounce": "",
+        "word": "Non performings loans"
+    },
+    {
+        "description": "(Econ) Phi ngoại thương",
+        "html": "<h1>Non trade</h1><h3><i>//</i></h3><ul><li>(Econ) Phi ngoại thương</li></ul>",
+        "id": 67419,
+        "pronounce": "",
+        "word": "Non trade"
+    },
 ]

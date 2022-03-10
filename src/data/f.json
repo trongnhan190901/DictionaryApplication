@@ -35360,4 +35360,53 @@
         "pronounce": "",
         "word": "fyord"
     },
+  {
+        "description": "(Econ) Tiền pháp định.",
+        "html": "<h1>Fiat (or token) money</h1><h3><i>//</i></h3><ul><li>(Econ) Tiền pháp định.</li></ul>",
+        "id": 67403,
+        "pronounce": "",
+        "word": "Fiat (or token) money"
+    },
+    {
+        "description": "(Econ) Hàng hoá cuối cùng.",
+        "html": "<h1>Final goods</h1><h3><i>//</i></h3><ul><li>(Econ) Hàng hoá cuối cùng.</li></ul>",
+        "id": 67404,
+        "pronounce": "",
+        "word": "Final goods"
+    },
+    {
+        "description": "(Econ) Tăng cường tài chính; phát triển hệ thống tài chính.",
+        "html": "<h1>Finance deepening</h1><h3><i>//</i></h3><ul><li>(Econ) Tăng cường tài chính; phát triển hệ thống tài chính.</li></ul>",
+        "id": 67405,
+        "pronounce": "",
+        "word": "Finance deepening"
+    },
+    {
+        "description": "(Econ) Tinh chỉnh.",
+        "html": "<h1>Fine turning</h1><h3><i>//</i></h3><ul><li>(Econ) Tinh chỉnh.</li></ul>",
+        "id": 67406,
+        "pronounce": "",
+        "word": "Fine turning"
+    },
+ {
+        "description": "(Econ) Kiểm định Fisher.",
+        "html": "<h1>F-test</h1><h3><i>//</i></h3><ul><li>(Econ) Kiểm định Fisher.</li></ul>",
+        "id": 67408,
+        "pronounce": "",
+        "word": "F-test"
+    },
+ {
+        "description": "(Econ) Biến số mang tính dòng chảy.",
+        "html": "<h1>Flow variable</h1><h3><i>//</i></h3><ul><li>(Econ) Biến số mang tính dòng chảy.</li></ul>",
+        "id": 67413,
+        "pronounce": "",
+        "word": "Flow variable"
+    },
+    {
+        "description": "(Econ) Giá trị tương lai.",
+        "html": "<h1>Future value</h1><h3><i>//</i></h3><ul><li>(Econ) Giá trị tương lai.</li></ul>",
+        "id": 67414,
+        "pronounce": "",
+        "word": "Future value"
+    },
 ]

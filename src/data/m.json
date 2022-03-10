@@ -30613,4 +30613,19 @@
         "pronounce": "",
         "word": "myxomatosis"
     },
+ {
+        "description": "(Econ) Đa cộng tuyến.",
+        "html": "<h1>Multi-collinearity</h1><h3><i>//</i></h3><ul><li>(Econ) Đa cộng tuyến.</li></ul>",
+        "id": 67369,
+        "pronounce": "",
+        "word": "Multi-collinearity"
+    },
+
+    {
+        "description": "(Econ) Đến hạn thanh toán.",
+        "html": "<h1>Maturity</h1><h3><i>//</i></h3><ul><li>(Econ) Đến hạn thanh toán.</li></ul>",
+        "id": 67416,
+        "pronounce": "",
+        "word": "Maturity"
+    },
 ]

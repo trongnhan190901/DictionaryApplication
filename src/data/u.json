@@ -31670,4 +31670,25 @@
         "pronounce": "",
         "word": "uxoriously"
     },
+ {
+        "description": "(Econ) Lạm phát bất thường..",
+        "html": "<h1>Unexpected inflation</h1><h3><i>//</i></h3><ul><li>(Econ) Lạm phát bất thường..</li></ul>",
+        "id": 67402,
+        "pronounce": "",
+        "word": "Unexpected inflation"
+    },
+{
+        "description": "(Econ) Tỷ lệ, sự thất nghiệp bắt buộc.",
+        "html": "<h1>Unvoluntary unemployment</h1><h3><i>//</i></h3><ul><li>(Econ) Tỷ lệ, sự thất nghiệp bắt buộc.</li></ul>",
+        "id": 67492,
+        "pronounce": "",
+        "word": "Unvoluntary unemployment"
+    },
+    {
+        "description": "(Econ) Tối đa hoá độ thoả dụng.",
+        "html": "<h1>Utility maximization</h1><h3><i>//</i></h3><ul><li>(Econ) Tối đa hoá độ thoả dụng.</li></ul>",
+        "id": 67493,
+        "pronounce": "",
+        "word": "Utility maximization"
+    },
 ]

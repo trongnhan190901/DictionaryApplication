@@ -32363,4 +32363,74 @@
         "pronounce": "",
         "word": "ryegrass"
     },
+{
+        "description": "(Econ) Giá trị có thể đánh thuế.",
+        "html": "<h1>Rateable value</h1><h3><i>//</i></h3><ul><li>(Econ) Giá trị có thể đánh thuế.</li></ul>",
+        "id": 67442,
+        "pronounce": "",
+        "word": "Rateable value"
+    },
+    {
+        "description": "(Econ) Các giá thực tế/ tương đối.",
+        "html": "<h1>Real</h1><h3><i>/relative price/</i></h3><ul><li>(Econ) Các giá thực tế/ tương đối.</li></ul>",
+        "id": 67443,
+        "pronounce": "relative price",
+        "word": "Real"
+    },
+    {
+        "description": "(Econ) Ảnh hưỏng của số dư tiền thực/ hiệu ứng tiền thực.",
+        "html": "<h1>Real balance effect</h1><h3><i>//</i></h3><ul><li>(Econ) Ảnh hưỏng của số dư tiền thực/ hiệu ứng tiền thực.</li></ul>",
+        "id": 67444,
+        "pronounce": "",
+        "word": "Real balance effect"
+    },
+    {
+        "description": "(Econ) Mức lãi suất thực tế.",
+        "html": "<h1>Real interest rate.</h1><h3><i>//</i></h3><ul><li>(Econ) Mức lãi suất thực tế.</li></ul>",
+        "id": 67445,
+        "pronounce": "",
+        "word": "Real interest rate."
+    },
+    {
+        "description": "(Econ) Giá thực tế và thu nhập thực tế",
+        "html": "<h1>Real prices and real income</h1><h3><i>//</i></h3><ul><li>(Econ) Giá thực tế và thu nhập thực tế</li></ul>",
+        "id": 67446,
+        "pronounce": "",
+        "word": "Real prices and real income"
+    },
+    {
+        "description": "(Econ) Số thu.",
+        "html": "<h1>Receipt</h1><h3><i>//</i></h3><ul><li>(Econ) Số thu.</li></ul>",
+        "id": 67447,
+        "pronounce": "",
+        "word": "Receipt"
+    },
+    {
+        "description": "(Econ) Hố, khoảng trống suy thoái.",
+        "html": "<h1>Recessionary gap</h1><h3><i>//</i></h3><ul><li>(Econ) Hố, khoảng trống suy thoái.</li></ul>",
+        "id": 67448,
+        "pronounce": "",
+        "word": "Recessionary gap"
+    },
+    {
+        "description": "(Econ) Các biến cố ngẫu nhiên.",
+        "html": "<h1>Ramdom events</h1><h3><i>//</i></h3><ul><li>(Econ) Các biến cố ngẫu nhiên.</li></ul>",
+        "id": 67438,
+        "pronounce": "",
+        "word": "Ramdom events"
+    },
+    {
+        "description": "(Econ) Miền giá trị.",
+        "html": "<h1>Range of values</h1><h3><i>//</i></h3><ul><li>(Econ) Miền giá trị.</li></ul>",
+        "id": 67439,
+        "pronounce": "",
+        "word": "Range of values"
+    },
+    {
+        "description": "(Econ) Suất sinh lợi từ đầu tư.",
+        "html": "<h1>Rate of return on investment</h1><h3><i>//</i></h3><ul><li>(Econ) Suất sinh lợi từ đầu tư.</li></ul>",
+        "id": 67440,
+        "pronounce": "",
+        "word": "Rate of return on investment"
+    },
 ]

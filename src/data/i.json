@@ -36010,4 +36010,25 @@
         "pronounce": "",
         "word": "ixia"
     },
+ {
+        "description": "(Econ) Tiêu dùng phụ thuộc / thay đổi.",
+        "html": "<h1>Independent</h1><h3><i>/induced consumption/</i></h3><ul><li>(Econ) Tiêu dùng phụ thuộc / thay đổi.</li></ul>",
+        "id": 67377,
+        "pronounce": "induced consumption",
+        "word": "Independent"
+    },
+{
+        "description": "(Econ) Nội suất thu hồi vốn/ tỷ lệ hoàn vốn nội bộ.",
+        "html": "<h1>Interna Rate of return</h1><h3><i>//</i></h3><ul><li>(Econ) Nội suất thu hồi vốn/ tỷ lệ hoàn vốn nội bộ.</li></ul>",
+        "id": 67441,
+        "pronounce": "",
+        "word": "Interna Rate of return"
+    },
+    {
+        "description": "(Econ) Hàng hoá trung gian.",
+        "html": "<h1>Intermediate goods</h1><h3><i>//</i></h3><ul><li>(Econ) Hàng hoá trung gian.</li></ul>",
+        "id": 67407,
+        "pronounce": "",
+        "word": "Intermediate goods"
+    },
 ]

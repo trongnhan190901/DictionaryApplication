@@ -56496,4 +56496,62 @@
         "pronounce": "",
         "word": "azymous"
     },
+ {
+        "description": "(Econ) Giá kế toán.",
+        "html": "<h1>Accounting price</h1><h3><i>//</i></h3><ul><li>(Econ) Giá kế toán.</li></ul>",
+        "id": 67354,
+        "pronounce": "",
+        "word": "Accounting price"
+    },
+    {
+        "description": "(Econ) Khấu hao tích luỹ.",
+        "html": "<h1>Accumulated depreciation</h1><h3><i>//</i></h3><ul><li>(Econ) Khấu hao tích luỹ.</li></ul>",
+        "id": 67355,
+        "pronounce": "",
+        "word": "Accumulated depreciation"
+    },
+
+    {
+        "description": "(Econ) Thẩm định.",
+        "html": "<h1>Appraisal</h1><h3><i>//</i></h3><ul><li>(Econ) Thẩm định.</li></ul>",
+        "id": 67358,
+        "pronounce": "",
+        "word": "Appraisal"
+    },
+    {
+        "description": "(Econ) Tăng giá.",
+        "html": "<h1>Appreciation (currency)</h1><h3><i>//</i></h3><ul><li>(Econ) Tăng giá.</li></ul>",
+        "id": 67359,
+        "pronounce": "",
+        "word": "Appreciation (currency)"
+    },
+    {
+        "description": "(Econ) Tăng giá và giảm giá trị.",
+        "html": "<h1>Appreciation and depreciation</h1><h3><i>//</i></h3><ul><li>(Econ) Tăng giá và giảm giá trị.</li></ul>",
+        "id": 67360,
+        "pronounce": "",
+        "word": "Appreciation and depreciation"
+    },
+    {
+        "description": "(Econ) Kinh doanh dựa vào chênh lệch tỷ giá.",
+        "html": "<h1>Arbitrage</h1><h3><i>//</i></h3><ul><li>(Econ) Kinh doanh dựa vào chênh lệch tỷ giá.</li></ul>",
+        "id": 67361,
+        "pronounce": "",
+        "word": "Arbitrage"
+    },
+{
+        "description": "(Econ) Những động cơ tài sản.",
+        "html": "<h1>Assets motives</h1><h3><i>//</i></h3><ul><li>(Econ) Những động cơ tài sản.</li></ul>",
+        "id": 67486,
+        "pronounce": "",
+        "word": "Assets motives"
+    },
+
+    {
+        "description": "(Econ) Chính sách thu chi ngân sách tự động.",
+        "html": "<h1>Automatic fiscal policy</h1><h3><i>//</i></h3><ul><li>(Econ) Chính sách thu chi ngân sách tự động.</li></ul>",
+        "id": 67409,
+        "pronounce": "",
+        "word": "Automatic fiscal policy"
+    },
 ]

@@ -14464,4 +14464,18 @@
         "pronounce": "",
         "word": "wysiwyg"
     },
+{
+        "description": "(Econ) Tính linh hoạt của giá cả và lương.",
+        "html": "<h1>Wage and price flexibility</h1><h3><i>//</i></h3><ul><li>(Econ) Tính linh hoạt của giá cả và lương.</li></ul>",
+        "id": 67502,
+        "pronounce": "",
+        "word": "Wage and price flexibility"
+    },
+    {
+        "description": "(Econ) Tỷ số tiền công- tiền thuê vốn.",
+        "html": "<h1>Wage-rental ratio</h1><h3><i>//</i></h3><ul><li>(Econ) Tỷ số tiền công- tiền thuê vốn.</li></ul>",
+        "id": 67503,
+        "pronounce": "",
+        "word": "Wage-rental ratio"
+    },
 ]

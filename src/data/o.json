@@ -14870,7 +14870,7 @@
         "pronounce": "",
         "word": "own"
     },
-    
+
     {
         "description": "interj",
         "html": "<h1>o.k</h1><h3><i>//</i></h3><ul><li>interj</li><li><lóng> được!, đồng ý!, tán thành!, tốt!* tính từ<br/></li><li>được, tốt* danh từ<br/></li><li>sự đồng ý, sự tán thành* ngoại động từ<br/></li><li>đồng ý, bằng lòng, tán thành</li></ul>",
@@ -23068,4 +23068,40 @@
         "pronounce": "",
         "word": "ozonosphere"
     },
+    {
+        "description": "(Econ) Sự lỏng lẻo về tổ chức.",
+        "html": "<h1>Organization slack</h1><h3><i>//</i></h3><ul><li>(Econ) Sự lỏng lẻo về tổ chức.</li></ul>",
+        "id": 67347,
+        "pronounce": "",
+        "word": "Organization slack"
+    }
+{
+        "description": "(Econ) Giá chào.",
+        "html": "<h1>Offer price</h1><h3><i>//</i></h3><ul><li>(Econ) Giá chào.</li></ul>",
+        "id": 67420,
+        "pronounce": "",
+        "word": "Offer price"
+    },
+    {
+        "description": "(Econ) Chi phí cơ hội của vốn",
+        "html": "<h1>Opportunity cost of capital</h1><h3><i>//</i></h3><ul><li>(Econ) Chi phí cơ hội của vốn</li></ul>",
+        "id": 67421,
+        "pronounce": "",
+        "word": "Opportunity cost of capital"
+    },
+    {
+        "description": "(Econ) Kinh tế học vĩ mô của nền kinh tế mở.",
+        "html": "<h1>Open economy economics</h1><h3><i>//</i></h3><ul><li>(Econ) Kinh tế học vĩ mô của nền kinh tế mở.</li></ul>",
+        "id": 67422,
+        "pronounce": "",
+        "word": "Open economy economics"
+    },
+    {
+        "description": "(Econ) Các điều kiện khác không đổi.",
+        "html": "<h1>Other thíng equal</h1><h3><i>//</i></h3><ul><li>(Econ) Các điều kiện khác không đổi.</li></ul>",
+        "id": 67423,
+        "pronounce": "",
+        "word": "Other things equal"
+    },
+    
 ]

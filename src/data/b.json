@@ -33862,4 +33862,46 @@
         "pronounce": "",
         "word": "byzantine"
     },
+ {
+        "description": "(Econ) (GDP) được cân đối.",
+        "html": "<h1>Balanced (GDP)</h1><h3><i>//</i></h3><ul><li>(Econ) (GDP) được cân đối.</li></ul>",
+        "id": 67362,
+        "pronounce": "",
+        "word": "Balanced (GDP)"
+    },
+    {
+        "description": "(Econ) (GDP) cân bằng.",
+        "html": "<h1>Balanced equilibrium (GDP)</h1><h3><i>//</i></h3><ul><li>(Econ) (GDP) cân bằng.</li></ul>",
+        "id": 67363,
+        "pronounce": "",
+        "word": "Balanced equilibrium (GDP)"
+    },
+    {
+        "description": "(Econ) Chỉ số tính sự biến động lợi tức của một cổ phiếu cùng với sự biến động lợi tức của toàn bộ thị trường chứng khoán.",
+        "html": "<h1>Beta</h1><h3><i>//</i></h3><ul><li>(Econ) Chỉ số tính sự biến động lợi tức của một cổ phiếu cùng với sự biến động lợi tức của toàn bộ thị trường chứng khoán.</li></ul>",
+        "id": 67364,
+        "pronounce": "",
+        "word": "Beta"
+    },
+    {
+        "description": "(Econ) Mức/ Khoản chênh lệc của thị trường chợ đen.",
+        "html": "<h1>Black market premium</h1><h3><i>//</i></h3><ul><li>(Econ) Mức/ Khoản chênh lệc của thị trường chợ đen.</li></ul>",
+        "id": 67365,
+        "pronounce": "",
+        "word": "Black market premium"
+    },
+    {
+        "description": "(Econ) Cổ phiếu sáng giá.",
+        "html": "<h1>Blue-chip stock</h1><h3><i>//</i></h3><ul><li>(Econ) Cổ phiếu sáng giá.</li></ul>",
+        "id": 67366,
+        "pronounce": "",
+        "word": "Blue-chip stock"
+    },
+ {
+        "description": "(Econ) Giá cửa khẩu.",
+        "html": "<h1>Border price</h1><h3><i>//</i></h3><ul><li>(Econ) Giá cửa khẩu.</li></ul>",
+        "id": 67368,
+        "pronounce": "",
+        "word": "Border price"
+    },
 ]

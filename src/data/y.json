@@ -1057,7 +1057,7 @@
         "pronounce": "",
         "word": "yield"
     },
-    
+
     {
         "description": "thành ngữ y",
         "html": "<h1>y-fronts</h1><h3><i>//</i></h3><ul><li>thành ngữ y</li><li>Y-fronts</li><li>quần chẽn của đàn ông</li><li>thành ngữ y</li><li>Y-fronts</li><li>quần chẽn của đàn ông</li></ul>",
@@ -1351,5 +1351,47 @@
         "id": 103462,
         "pronounce": "",
         "word": "ywca"
+    },
+    {
+        "description": "(Econ) Hiệu quả Y.",
+        "html": "<h1>Y-efficiency</h1><h3><i>//</i></h3><ul><li>(Econ) Hiệu quả Y.+ Hiệu quả trong đó các cơ hội thu lợi nhuân trên thị trường được khai thác.<br/></li></ul>",
+        "id": 67340,
+        "pronounce": "",
+        "word": "Y-efficiency"
+    },
+    {
+        "description": "(Econ) Lợi tức.",
+        "html": "<h1>Yeild</h1><h3><i>//</i></h3><ul><li>(Econ) Lợi tức.+ Tỷ lệ thu hàng năm đối với một chứng khoán được tính bằng tỷ lệ % so với thị giá hiện tại.<br/></li></ul>",
+        "id": 67341,
+        "pronounce": "",
+        "word": "Yeild"
+    },
+    {
+        "description": "(Econ) Chênh lệch lợi tức.",
+        "html": "<h1>Yeild gap</h1><h3><i>//</i></h3><ul><li>(Econ) Chênh lệch lợi tức.+ Mức khác biệt giữa lợi tức trung bình đối với cổ phần và tỷ lệ thu hồi tương ứng đối với các chứng khoán dài hạn có lãi suất cố định.<br/></li></ul>",
+        "id": 67342,
+        "pronounce": "",
+        "word": "Yeild gap"
+    },
+    {
+        "description": "(Econ) Chênh lệch lợi tức chứng khoán.",
+        "html": "<h1>Yeild gap on securities</h1><h3><i>//</i></h3><ul><li>(Econ) Chênh lệch lợi tức chứng khoán.+ Xem<br/></li></ul>",
+        "id": 67343,
+        "pronounce": "",
+        "word": "Yeild gap on securities"
+    },
+{
+        "description": "(Econ) Lãi trên nợ nước ngoài.",
+        "html": "<h1>Yield on external debt</h1><h3><i>//</i></h3><ul><li>(Econ) Lãi trên nợ nước ngoài.</li></ul>",
+        "id": 67504,
+        "pronounce": "",
+        "word": "Yield on external debt"
+    },
+    {
+        "description": "(Econ) Lợi nhuận từ đầu tư.",
+        "html": "<h1>Yield on investment</h1><h3><i>//</i></h3><ul><li>(Econ) Lợi nhuận từ đầu tư.</li></ul>",
+        "id": 67505,
+        "pronounce": "",
+        "word": "Yield on investment"
     },
 ]

@@ -39421,4 +39421,53 @@
         "pronounce": "",
         "word": "ezine"
     },
+ {
+        "description": "(Econ) Tổng sản lượng cân bằng.",
+        "html": "<h1>Equilibrium aggregate output</h1><h3><i>//</i></h3><ul><li>(Econ) Tổng sản lượng cân bằng.</li></ul>",
+        "id": 67396,
+        "pronounce": "",
+        "word": "Equilibrium aggregate output"
+    },
+    {
+        "description": "(Econ) Cân bằng các mức chênh lệch tiền công.",
+        "html": "<h1>Equilizing wage diffirentials</h1><h3><i>//</i></h3><ul><li>(Econ) Cân bằng các mức chênh lệch tiền công.</li></ul>",
+        "id": 67397,
+        "pronounce": "",
+        "word": "Equilizing wage diffirentials"
+    },
+    {
+        "description": "(Econ) Vốn cổ phần.",
+        "html": "<h1>Equity</h1><h3><i>//</i></h3><ul><li>(Econ) Vốn cổ phần.</li></ul>",
+        "id": 67398,
+        "pronounce": "",
+        "word": "Equity"
+    },
+    {
+        "description": "(Econ) Sự tiến triển của tình hình kinh tế.",
+        "html": "<h1>Evolving market condition</h1><h3><i>//</i></h3><ul><li>(Econ) Sự tiến triển của tình hình kinh tế.</li></ul>",
+        "id": 67399,
+        "pronounce": "",
+        "word": "Evolving market condition"
+    },
+    {
+        "description": "(Econ) Những dư tính ngoại sinh.",
+        "html": "<h1>Exogenuos expectations</h1><h3><i>//</i></h3><ul><li>(Econ) Những dư tính ngoại sinh.</li></ul>",
+        "id": 67400,
+        "pronounce": "",
+        "word": "Exogenuos expectations"
+    },
+    {
+        "description": "(Econ) Lạm phát dự tính được.",
+        "html": "<h1>Expected inflation</h1><h3><i>//</i></h3><ul><li>(Econ) Lạm phát dự tính được.</li></ul>",
+        "id": 67401,
+        "pronounce": "",
+        "word": "Expected inflation"
+    },
+{
+        "description": "(Econ) Chính sách thu chi ngân sách mở rộng.",
+        "html": "<h1>Expasionary fiscal policy</h1><h3><i>//</i></h3><ul><li>(Econ) Chính sách thu chi ngân sách mở rộng.</li></ul>",
+        "id": 67411,
+        "pronounce": "",
+        "word": "Expasionary fiscal policy"
+    },
 ]

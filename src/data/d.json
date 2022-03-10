@@ -45768,4 +45768,81 @@
         "pronounce": "",
         "word": "dystrophic"
     },
+{
+        "description": "(Econ) Sự/ mức mất mát vô ích.",
+        "html": "<h1>Dead weight loss</h1><h3><i>//</i></h3><ul><li>(Econ) Sự/ mức mất mát vô ích.</li></ul>",
+        "id": 67386,
+        "pronounce": "",
+        "word": "Dead weight loss"
+    },
+    {
+        "description": "(Econ) Gánh nặng vô ích của thuế khoá.",
+        "html": "<h1>Dead weight tax burden</h1><h3><i>//</i></h3><ul><li>(Econ) Gánh nặng vô ích của thuế khoá.</li></ul>",
+        "id": 67387,
+        "pronounce": "",
+        "word": "Dead weight tax burden"
+    },
+    {
+        "description": "(Econ) Hoãn nợ/ gia hạn nợ.",
+        "html": "<h1>Debt rescheduling</h1><h3><i>//</i></h3><ul><li>(Econ) Hoãn nợ/ gia hạn nợ.</li></ul>",
+        "id": 67388,
+        "pronounce": "",
+        "word": "Debt rescheduling"
+    },
+    {
+        "description": "(Econ) Thành mười nhóm bằng nhau.",
+        "html": "<h1>Decile</h1><h3><i>//</i></h3><ul><li>(Econ) Thành mười nhóm bằng nhau.</li></ul>",
+        "id": 67389,
+        "pronounce": "",
+        "word": "Decile"
+    },
+    {
+        "description": "(Econ) Hàng hoá cùng loại mang nét đặc trưng riêng.",
+        "html": "<h1>Differentiated goods</h1><h3><i>//</i></h3><ul><li>(Econ) Hàng hoá cùng loại mang nét đặc trưng riêng.</li></ul>",
+        "id": 67390,
+        "pronounce": "",
+        "word": "Differentiated goods"
+    },
+    {
+        "description": "(Econ) Chính phủ can thiệp.",
+        "html": "<h1>Dirigiste</h1><h3><i>//</i></h3><ul><li>(Econ) Chính phủ can thiệp.</li></ul>",
+        "id": 67391,
+        "pronounce": "",
+        "word": "Dirigiste"
+    },
+    {
+        "description": "(Econ) Các biến dạng và thất bại của thị trường.",
+        "html": "<h1>Distortions and market failure</h1><h3><i>//</i></h3><ul><li>(Econ) Các biến dạng và thất bại của thị trường.</li></ul>",
+        "id": 67392,
+        "pronounce": "",
+        "word": "Distortions and market failure"
+    },
+    {
+        "description": "(Econ) Phân phối.",
+        "html": "<h1>Distribution</h1><h3><i>//</i></h3><ul><li>(Econ) Phân phối.</li></ul>",
+        "id": 67393,
+        "pronounce": "",
+        "word": "Distribution"
+    },
+{
+        "description": "(Econ) Phân phối tất định.",
+        "html": "<h1>Deterministic distribution</h1><h3><i>//</i></h3><ul><li>(Econ) Phân phối tất định.</li></ul>",
+        "id": 67395,
+        "pronounce": "",
+        "word": "Deterministic distribution"
+    },
+ {
+        "description": "(Econ) Biến số giả.",
+        "html": "<h1>Dummy Variable</h1><h3><i>//</i></h3><ul><li>(Econ) Biến số giả.</li></ul>",
+        "id": 67496,
+        "pronounce": "",
+        "word": "Dummy Variable"
+    },
+     {
+        "description": "(Econ) Chính sách thu chi ngân sách chủ động.",
+        "html": "<h1>Discretionary fiscal policy</h1><h3><i>//</i></h3><ul><li>(Econ) Chính sách thu chi ngân sách chủ động.</li></ul>",
+        "id": 67410,
+        "pronounce": "",
+        "word": "Discretionary fiscal policy"
+    },
 ]

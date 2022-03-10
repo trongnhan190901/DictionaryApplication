@@ -74399,4 +74399,138 @@
         "pronounce": "",
         "word": "czardom"
     },
+{
+        "description": "(Econ) Tổ hợp.",
+        "html": "<h1>Combination</h1><h3><i>//</i></h3><ul><li>(Econ) Tổ hợp.</li></ul>",
+        "id": 67370,
+        "pronounce": "",
+        "word": "Combination"
+    },
+    {
+        "description": "(Econ) Các mức bù thêm lương.",
+        "html": "<h1>Compensating differentials</h1><h3><i>//</i></h3><ul><li>(Econ) Các mức bù thêm lương.</li></ul>",
+        "id": 67371,
+        "pronounce": "",
+        "word": "Compensating differentials"
+    },
+    {
+        "description": "(Econ) Sinh lợi cố định theo quy mô.",
+        "html": "<h1>Constant returns to scale</h1><h3><i>//</i></h3><ul><li>(Econ) Sinh lợi cố định theo quy mô.</li></ul>",
+        "id": 67372,
+        "pronounce": "",
+        "word": "Constant returns to scale"
+    },
+    {
+        "description": "(Econ) Hạn chế/ ràng buộc (không chính thức/ chính thức; ngoài quy định/ theo quy định).",
+        "html": "<h1>Constrain informal</h1><h3><i>/formal/</i></h3><ul><li>(Econ) Hạn chế/ ràng buộc (không chính thức/ chính thức; ngoài quy định/ theo quy định).</li></ul>",
+        "id": 67373,
+        "pronounce": "formal",
+        "word": "Constrain informal"
+    },
+    {
+        "description": "(Econ) Chủ quyền người tiêu dùng.",
+        "html": "<h1>Consumer sovereignty</h1><h3><i>//</i></h3><ul><li>(Econ) Chủ quyền người tiêu dùng.</li></ul>",
+        "id": 67374,
+        "pronounce": "",
+        "word": "Consumer sovereignty"
+    },
+    {
+        "description": "(Econ) Thặng dư người tiêu dùng.",
+        "html": "<h1>Consumer surplus</h1><h3><i>//</i></h3><ul><li>(Econ) Thặng dư người tiêu dùng.</li></ul>",
+        "id": 67375,
+        "pronounce": "",
+        "word": "Consumer surplus"
+    },
+    {
+        "description": "(Econ) Tiêu dùng.",
+        "html": "<h1>Consumption</h1><h3><i>//</i></h3><ul><li>(Econ) Tiêu dùng.</li></ul>",
+        "id": 67376,
+        "pronounce": "",
+        "word": "Consumption"
+    }.
+ {
+        "description": "(Econ) Hàm Tiêu dùng.",
+        "html": "<h1>Consumption function</h1><h3><i>//</i></h3><ul><li>(Econ) Hàm Tiêu dùng.</li></ul>",
+        "id": 67378,
+        "pronounce": "",
+        "word": "Consumption function"
+    },
+    {
+        "description": "(Econ) Thị trường có thể cạnh tranh được.",
+        "html": "<h1>Contestable market</h1><h3><i>//</i></h3><ul><li>(Econ) Thị trường có thể cạnh tranh được.</li></ul>",
+        "id": 67379,
+        "pronounce": "",
+        "word": "Contestable market"
+    },
+    {
+        "description": "(Econ) Hệ số chuyển đổi.",
+        "html": "<h1>Conversion factor</h1><h3><i>//</i></h3><ul><li>(Econ) Hệ số chuyển đổi.</li></ul>",
+        "id": 67380,
+        "pronounce": "",
+        "word": "Conversion factor"
+    },
+    {
+        "description": "(Econ) Giải pháp khó xử.",
+        "html": "<h1>Cornor solution</h1><h3><i>//</i></h3><ul><li>(Econ) Giải pháp khó xử.</li></ul>",
+        "id": 67381,
+        "pronounce": "",
+        "word": "Cornor solution"
+    },
+    {
+        "description": "(Econ) Quy là tội phạm.",
+        "html": "<h1>Criminalization</h1><h3><i>//</i></h3><ul><li>(Econ) Quy là tội phạm.</li></ul>",
+        "id": 67382,
+        "pronounce": "",
+        "word": "Criminalization"
+    },
+    {
+        "description": "(Econ) Độ co giãn theo giá chéo của cầu.",
+        "html": "<h1>Cross price elasticity of demand</h1><h3><i>//</i></h3><ul><li>(Econ) Độ co giãn theo giá chéo của cầu.</li></ul>",
+        "id": 67383,
+        "pronounce": "",
+        "word": "Cross price elasticity of demand"
+    },
+    {
+        "description": "(Econ) Số liệu chéo/ mẫu/ đặc trưng.",
+        "html": "<h1>Cross-section data</h1><h3><i>//</i></h3><ul><li>(Econ) Số liệu chéo/ mẫu/ đặc trưng.</li></ul>",
+        "id": 67384,
+        "pronounce": "",
+        "word": "Cross-section data"
+    },
+    {
+        "description": "(Econ) Tác động lấn ép, chèn ép.",
+        "html": "<h1>Crowding-out effect</h1><h3><i>//</i></h3><ul><li>(Econ) Tác động lấn ép, chèn ép.</li></ul>",
+        "id": 67385,
+        "pronounce": "",
+        "word": "Crowding-out effect"
+    },
+ {
+        "description": "(Econ) Phân phối liên tục.",
+        "html": "<h1>Continuous distribution</h1><h3><i>//</i></h3><ul><li>(Econ) Phân phối liên tục.</li></ul>",
+        "id": 67394,
+        "pronounce": "",
+        "word": "Continuous distribution"
+    },
+{
+        "description": "(Econ) Xác suất có điều kiện.",
+        "html": "<h1>Conditional probality</h1><h3><i>//</i></h3><ul><li>(Econ) Xác suất có điều kiện.</li></ul>",
+        "id": 67431,
+        "pronounce": "",
+        "word": "Conditional probality"
+    },
+    {
+        "description": "(Econ) Xác suất tích luỹ.",
+        "html": "<h1>Cumulative probality</h1><h3><i>//</i></h3><ul><li>(Econ) Xác suất tích luỹ.</li></ul>",
+        "id": 67432,
+        "pronounce": "",
+        "word": "Cumulative probality"
+    },
+ 
+    {
+        "description": "(Econ) Chính sách thu chi ngân sách thu hẹp.",
+        "html": "<h1>Contractionary fiscal policy</h1><h3><i>//</i></h3><ul><li>(Econ) Chính sách thu chi ngân sách thu hẹp.</li></ul>",
+        "id": 67412,
+        "pronounce": "",
+        "word": "Contractionary fiscal policy"
+    },
 ]

@@ -4033,4 +4033,33 @@
         "pronounce": "",
         "word": "qwerty"
     },
+{
+        "description": "(Econ) Góc toạ độ/ góc phần tư.",
+        "html": "<h1>Quadrant</h1><h3><i>//</i></h3><ul><li>(Econ) Góc toạ độ/ góc phần tư.</li></ul>",
+        "id": 67434,
+        "pronounce": "",
+        "word": "Quadrant"
+    },
+    {
+        "description": "(Econ) Tài sản bán thanh toán.",
+        "html": "<h1>Quasiliquid asset</h1><h3><i>//</i></h3><ul><li>(Econ) Tài sản bán thanh toán.</li></ul>",
+        "id": 67435,
+        "pronounce": "",
+        "word": "Quasiliquid asset"
+    },
+    {
+        "description": "(Econ) Tiền ký phát nhanh.",
+        "html": "<h1>Quick-disbursing fundss</h1><h3><i>//</i></h3><ul><li>(Econ) Tiền ký phát nhanh.</li></ul>",
+        "id": 67436,
+        "pronounce": "",
+        "word": "Quick-disbursing fundss"
+    },
+    {
+        "description": "(Econ) Thành năm phần bằng nhau.",
+        "html": "<h1>Quintile</h1><h3><i>//</i></h3><ul><li>(Econ) Thành năm phần bằng nhau.</li></ul>",
+        "id": 67437,
+        "pronounce": "",
+        "word": "Quintile"
+    },
+   
 ]

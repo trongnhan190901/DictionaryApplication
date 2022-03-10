@@ -70086,4 +70086,88 @@
         "pronounce": "",
         "word": "pyxidate"
     },
+    {
+        "description": "(Econ) Thông tin hoàn hảo.",
+        "html": "<h1>Perfect information</h1><h3><i>//</i></h3><ul><li>(Econ) Thông tin hoàn hảo.</li></ul>",
+        "id": 67348,
+        "pronounce": "",
+        "word": "Perfect information"
+    },
+    {
+        "description": "(Econ) Giả thuyết về thu nhập lâu dài.",
+        "html": "<h1>Personal income Hypothesis</h1><h3><i>//</i></h3><ul><li>(Econ) Giả thuyết về thu nhập lâu dài.</li></ul>",
+        "id": 67349,
+        "pronounce": "",
+        "word": "Personal income Hypothesis"
+    },
+    {
+        "description": "(Econ) Phân phối thu nhập cho cá nhân.",
+        "html": "<h1>Personal income distribution</h1><h3><i>//</i></h3><ul><li>(Econ) Phân phối thu nhập cho cá nhân.</li></ul>",
+        "id": 67350,
+        "pronounce": "",
+        "word": "Personal income distribution"
+    },
+    {
+        "description": "(Econ) Những động cơ dự phòng.",
+        "html": "<h1>Precaution motives</h1><h3><i>//</i></h3><ul><li>(Econ) Những động cơ dự phòng.</li></ul>",
+        "id": 67485,
+        "pronounce": "",
+        "word": "Precaution motives"
+    },
+    {
+        "description": "(Econ) Lạm phát thuần tuý.",
+        "html": "<h1>Pure inflation</h1><h3><i>//</i></h3><ul><li>(Econ) Lạm phát thuần tuý.</li></ul>",
+        "id": 67433,
+        "pronounce": "",
+        "word": "Pure inflation"
+    },
+    {
+        "description": "(Econ) Của cải dự tính được.",
+        "html": "<h1>Perceived Wealth</h1><h3><i>//</i></h3><ul><li>(Econ) Của cải dự tính được.</li></ul>",
+        "id": 67424,
+        "pronounce": "",
+        "word": "Perceived Wealth"
+    },
+    {
+        "description": "(Econ) Chênh lệch tính bằng phần trăm.",
+        "html": "<h1>Percentage change</h1><h3><i>//</i></h3><ul><li>(Econ) Chênh lệch tính bằng phần trăm.</li></ul>",
+        "id": 67425,
+        "pronounce": "",
+        "word": "Percentage change"
+    },
+    {
+        "description": "(Econ) Khả năng lưu chuyển hoàn hảo của vốn.",
+        "html": "<h1>Perfect capital mobility</h1><h3><i>//</i></h3><ul><li>(Econ) Khả năng lưu chuyển hoàn hảo của vốn.</li></ul>",
+        "id": 67426,
+        "pronounce": "",
+        "word": "Perfect capital mobility"
+    },
+    {
+        "description": "(Econ) Thành quả.",
+        "html": "<h1>Performance</h1><h3><i>//</i></h3><ul><li>(Econ) Thành quả.</li></ul>",
+        "id": 67427,
+        "pronounce": "",
+        "word": "Performance"
+    },
+    {
+        "description": "(Econ) Vốn hiện vật và vốn tài chính.",
+        "html": "<h1>Physical and financial capital</h1><h3><i>//</i></h3><ul><li>(Econ) Vốn hiện vật và vốn tài chính.</li></ul>",
+        "id": 67428,
+        "pronounce": "",
+        "word": "Physical and financial capital"
+    },
+    {
+        "description": "(Econ) Thiên lệch đồng biến.",
+        "html": "<h1>Positive bais</h1><h3><i>//</i></h3><ul><li>(Econ) Thiên lệch đồng biến.</li></ul>",
+        "id": 67429,
+        "pronounce": "",
+        "word": "Positive bais"
+    },
+    {
+        "description": "(Econ) Cam kết trước.",
+        "html": "<h1>Pre-commitment</h1><h3><i>//</i></h3><ul><li>(Econ) Cam kết trước.</li></ul>",
+        "id": 67430,
+        "pronounce": "",
+        "word": "Pre-commitment"
+    }
 ]

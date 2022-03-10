@@ -12273,4 +12273,47 @@
         "pronounce": "",
         "word": "vum"
     },
+{
+        "description": "(Econ) Các yếu tố sản xuất thay đổi.",
+        "html": "<h1>Variable factor</h1><h3><i>//</i></h3><ul><li>(Econ) Các yếu tố sản xuất thay đổi.</li></ul>",
+        "id": 67498,
+        "pronounce": "",
+        "word": "Variable factor"
+    },
+    {
+        "description": "(Econ) Khả năng thành tựu, tính khả thi.",
+        "html": "<h1>Viability</h1><h3><i>//</i></h3><ul><li>(Econ) Khả năng thành tựu, tính khả thi.</li></ul>",
+        "id": 67499,
+        "pronounce": "",
+        "word": "Viability"
+    },
+    {
+        "description": "(Econ) Vòng quay của tiền, tốc độ lưu chuyển của tiền.",
+        "html": "<h1>Velocity of money</h1><h3><i>//</i></h3><ul><li>(Econ) Vòng quay của tiền, tốc độ lưu chuyển của tiền.</li></ul>",
+        "id": 67500,
+        "pronounce": "",
+        "word": "Velocity of money"
+    },
+    {
+        "description": "(Econ) Tính dễ biến động.",
+        "html": "<h1>Volatility</h1><h3><i>//</i></h3><ul><li>(Econ) Tính dễ biến động.</li></ul>",
+        "id": 67501,
+        "pronounce": "",
+        "word": "Volatility"
+    },
+{
+        "description": "(Econ) Biến số.",
+        "html": "<h1>Variable</h1><h3><i>//</i></h3><ul><li>(Econ) Biến số.</li></ul>",
+        "id": 67494,
+        "pronounce": "",
+        "word": "Variable"
+    },
+    {
+        "description": "(Econ) Độ biến thiên.",
+        "html": "<h1>Variability</h1><h3><i>//</i></h3><ul><li>(Econ) Độ biến thiên.</li></ul>",
+        "id": 67495,
+        "pronounce": "",
+        "word": "Variability"
+    },
+   
 ]

@@ -798,7 +798,7 @@
         "pronounce": "",
         "word": "zonal"
     },
-    
+
     {
         "description": "xem zero  hour",
         "html": "<h1>z-hour</h1><h3><i>//</i></h3><ul><li>xem zero  hour</li></ul>",
@@ -1176,5 +1176,40 @@
         "id": 103516,
         "pronounce": "",
         "word": "zymurgy"
+    },
+    {
+        "description": "(Econ) Quy ước Zellner-Giesel.",
+        "html": "<h1>Zellner-Giesel</h1><h3><i>//</i></h3><ul><li>(Econ) Quy ước Zellner-Giesel.+ Một phương pháp được thiết kế đặc biệt cho ước lượng nhất quán các thông số của phương trình trễ phân phối sau khi biến đổi KOYCH mà có tính đến thực tế là biến đổi đó có thể đưa vào tương quan chuỗi của thành phần nhiễu.<br/></li></ul>",
+        "id": 67344,
+        "pronounce": "",
+        "word": "Zellner-Giesel"
+    },
+    {
+        "description": "(Econ) Các hàng hoá có mức thuế bằng 0.",
+        "html": "<h1>Zero-rate goods</h1><h3><i>//</i></h3><ul><li>(Econ) Các hàng hoá có mức thuế bằng 0.+ Xem VALUE-ADDED TAX.<br/></li></ul>",
+        "id": 67345,
+        "pronounce": "",
+        "word": "Zero-rate goods"
+    },
+    {
+        "description": "(Econ) Biến số Z.",
+        "html": "<h1>Z variable</h1><h3><i>//</i></h3><ul><li>(Econ) Biến số Z.+ Xem NORMAL DISTRIBUTION.<br/></li></ul>",
+        "id": 67346,
+        "pronounce": "",
+        "word": "Z variable"
+    }
+ {
+        "description": "(Econ) Giá trị của Z.",
+        "html": "<h1>Z-score</h1><h3><i>//</i></h3><ul><li>(Econ) Giá trị của Z.</li></ul>",
+        "id": 67506,
+        "pronounce": "",
+        "word": "Z-score"
+    },
+    {
+        "description": "(Econ) Đề xuất tăng trưởng bằng không.",
+        "html": "<h1>Zero growth proposal</h1><h3><i>//</i></h3><ul><li>(Econ) Đề xuất tăng trưởng bằng không.</li></ul>",
+        "id": 67507,
+        "pronounce": "",
+        "word": "Zero growth proposal"
     },
 ]

@@ -19160,7 +19160,7 @@
         "word": "tzigane"
     },
 
-  
+
     {
         "description": "(Econ) Bộ luật Taft-Hartley.",
         "html": "<h1>Taft-Hartley Act</h1><h3><i>//</i></h3><ul><li>(Econ) Bộ luật Taft-Hartley.+ Là bản sửa đổi vào năm 1947 của LUẬT QUAN HỆ LAO ĐỘNG QUỐC GIA (còn gọi là luật Wagner), được đưa ra nhằm hạn chế quyền lực của công đoàn.<br/></li></ul>",
@@ -33365,4 +33365,144 @@
         "pronounce": "",
         "word": "tzarina"
     },
+    {
+        "description": "(Econ) Dãy số liệu theo thời gian.",
+        "html": "<h1>Time series data</h1><h3><i>//</i></h3><ul><li>(Econ) Dãy số liệu theo thời gian.</li></ul>",
+        "id": 67353,
+        "pronounce": "",
+        "word": "Time series data"
+    },
+    {
+        "description": "(Econ) Trợ cấp bằng hiện vật.",
+        "html": "<h1>Transfer in kind</h1><h3><i>//</i></h3><ul><li>(Econ) Trợ cấp bằng hiện vật.</li></ul>",
+        "id": 67487,
+        "pronounce": "",
+        "word": "Transfer in kind"
+    },
+    {
+        "description": "(Econ) Cơ chế lan chuyền.",
+        "html": "<h1>Transmission mechanism</h1><h3><i>//</i></h3><ul><li>(Econ) Cơ chế lan chuyền.</li></ul>",
+        "id": 67488,
+        "pronounce": "",
+        "word": "Transmission mechanism"
+    },
+    {
+        "description": "(Econ) Đường biểu thị xu thế sản lượng.",
+        "html": "<h1>Trend output path</h1><h3><i>//</i></h3><ul><li>(Econ) Đường biểu thị xu thế sản lượng.</li></ul>",
+        "id": 67489,
+        "pronounce": "",
+        "word": "Trend output path"
+    },
+    {
+        "description": "(Econ) Bộ tài chính, ngân khố.",
+        "html": "<h1>Treasury</h1><h3><i>//</i></h3><ul><li>(Econ) Bộ tài chính, ngân khố.</li></ul>",
+        "id": 67490,
+        "pronounce": "",
+        "word": "Treasury"
+    },
+    {
+        "description": "(Econ) (hệ thống) giá hai phần.",
+        "html": "<h1>Tow-path tariffs</h1><h3><i>//</i></h3><ul><li>(Econ) (hệ thống) giá hai phần.</li></ul>",
+        "id": 67491,
+        "pronounce": "",
+        "word": "Tow-path tariffs"
+    },
+    {
+        "description": "(Econ) Sở thích, thị hiếu.",
+        "html": "<h1>Taste</h1><h3><i>//</i></h3><ul><li>(Econ) Sở thích, thị hiếu.</li></ul>",
+        "id": 67471,
+        "pronounce": "",
+        "word": "Taste"
+    },
+    {
+        "description": "(Econ) Ai phải chịu thuế.",
+        "html": "<h1>Tax incident</h1><h3><i>//</i></h3><ul><li>(Econ) Ai phải chịu thuế.</li></ul>",
+        "id": 67472,
+        "pronounce": "",
+        "word": "Tax incident"
+    },
+    {
+        "description": "(Econ) Chênh lệch giá do thuế.",
+        "html": "<h1>Tax wedge</h1><h3><i>//</i></h3><ul><li>(Econ) Chênh lệch giá do thuế.</li></ul>",
+        "id": 67473,
+        "pronounce": "",
+        "word": "Tax wedge"
+    },
+    {
+        "description": "(Econ) Chính sách thu nhập dựa vào thuế.",
+        "html": "<h1>Tax-base incomes Policy</h1><h3><i>//</i></h3><ul><li>(Econ) Chính sách thu nhập dựa vào thuế.</li></ul>",
+        "id": 67474,
+        "pronounce": "",
+        "word": "Tax-base incomes Policy"
+    },
+    {
+        "description": "(Econ) Thay đổi công nghệ qua R&D.",
+        "html": "<h1>Technical change through R&D</h1><h3><i>//</i></h3><ul><li>(Econ) Thay đổi công nghệ qua R&D.</li></ul>",
+        "id": 67475,
+        "pronounce": "",
+        "word": "Technical change through R&D"
+    },
+    {
+        "description": "(Econ) Tính hiệu dụng về mặt kỹ thuật.",
+        "html": "<h1>Technical efficiency</h1><h3><i>//</i></h3><ul><li>(Econ) Tính hiệu dụng về mặt kỹ thuật.</li></ul>",
+        "id": 67476,
+        "pronounce": "",
+        "word": "Technical efficiency"
+    },
+    {
+        "description": "(Econ) Tri thức, kiến thức, kỹ thuật",
+        "html": "<h1>Technical knowlwdge</h1><h3><i>//</i></h3><ul><li>(Econ) Tri thức, kiến thức, kỹ thuật</li></ul>",
+        "id": 67477,
+        "pronounce": "",
+        "word": "Technical knowlwdge"
+    },
+    {
+        "description": "(Econ) Kiểm nghiệm một mô hình thực tế.",
+        "html": "<h1>Testing an economic model</h1><h3><i>//</i></h3><ul><li>(Econ) Kiểm nghiệm một mô hình thực tế.</li></ul>",
+        "id": 67478,
+        "pronounce": "",
+        "word": "Testing an economic model"
+    },
+    {
+        "description": "(Econ) Kế hoạch Corset.",
+        "html": "<h1>The Corset</h1><h3><i>//</i></h3><ul><li>(Econ) Kế hoạch Corset.</li></ul>",
+        "id": 67479,
+        "pronounce": "",
+        "word": "The Corset"
+    },
+    {
+        "description": "(Econ) Khả thương.",
+        "html": "<h1>Tradable</h1><h3><i>//</i></h3><ul><li>(Econ) Khả thương.</li></ul>",
+        "id": 67480,
+        "pronounce": "",
+        "word": "Tradable"
+    },
+    {
+        "description": "(Econ) Cán cân thương mại.",
+        "html": "<h1>Trade balance</h1><h3><i>//</i></h3><ul><li>(Econ) Cán cân thương mại.</li></ul>",
+        "id": 67481,
+        "pronounce": "",
+        "word": "Trade balance"
+    },
+    {
+        "description": "(Econ) Hàng ngoại thương và phi ngoại thương.",
+        "html": "<h1>Traded and non-traded (goods)</h1><h3><i>//</i></h3><ul><li>(Econ) Hàng ngoại thương và phi ngoại thương.</li></ul>",
+        "id": 67482,
+        "pronounce": "",
+        "word": "Traded and non-traded (goods)"
+    },
+    {
+        "description": "(Econ) Công đoàn.",
+        "html": "<h1>Trade unions</h1><h3><i>//</i></h3><ul><li>(Econ) Công đoàn.</li></ul>",
+        "id": 67483,
+        "pronounce": "",
+        "word": "Trade unions"
+    },
+    {
+        "description": "(Econ) Những động cơ giao dịch.",
+        "html": "<h1>Transaction motives</h1><h3><i>//</i></h3><ul><li>(Econ) Những động cơ giao dịch.</li></ul>",
+        "id": 67484,
+        "pronounce": "",
+        "word": "Transaction motives"
+    }
 ]
