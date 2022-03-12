@@ -22,7 +22,8 @@
     "homepage": "https://github.com/trongnhan190901/ct239#readme",
     "dependencies": {
         "electron": "^16.0.7",
-        "electron-reload": "^2.0.0-alpha.1"
+        "electron-reload": "^2.0.0-alpha.1",
+        "mongoose": "^6.2.5"
     },
     "devDependencies": {
         "tailwindcss": "^3.0.23"

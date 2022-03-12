@@ -1197,8 +1197,8 @@
         "id": 67346,
         "pronounce": "",
         "word": "Z variable"
-    }
- {
+    },
+    {
         "description": "(Econ) Giá trị của Z.",
         "html": "<h1>Z-score</h1><h3><i>//</i></h3><ul><li>(Econ) Giá trị của Z.</li></ul>",
         "id": 67506,
@@ -1211,5 +1211,5 @@
         "id": 67507,
         "pronounce": "",
         "word": "Zero growth proposal"
-    },
+    }
 ]

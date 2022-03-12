@@ -1,7 +1,5 @@
-import Comparator from './Comparator';
-
-
-export default class BinaryTreeNode {
+const Comparator = require('./Comparator');
+module.exports = class BinaryTreeNode {
     /**
      * @param {*} [value] - node value.
      */

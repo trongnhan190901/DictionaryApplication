@@ -1,6 +1,6 @@
-import BinarySearchTreeNode from './BinarySearchTreeNode';
+const BinarySearchTreeNode = require('./BinarySearchTreeNode');
 
-export default class BinarySearchTree {
+module.exports = class BinarySearchTree {
     /**
      * @param {function} [nodeValueCompareFunction]
      */

@@ -1,5 +1,4 @@
 [
-
     {
         "description": "danh từ,  số nhiều Os,  O's,  Oes: o",
         "html": "<h1>o</h1><h3><i>/ou/</i></h3><h2>danh từ,  số nhiều Os,  O's,  Oes</h2><ul><li>o</li><li>hình O, hình tròn</li></ul><h2>thán từ</h2><ul><li>(như) oh (sau o không có dấu phẩy; sau oh có dấu phẩy)<ul style=\"list-style-type:circle\"><li>o how tired I am!:<i> chà, tôi mệt làm sao!</i></li></ul></li></ul>",
@@ -23074,8 +23073,8 @@
         "id": 67347,
         "pronounce": "",
         "word": "Organization slack"
-    }
-{
+    },
+    {
         "description": "(Econ) Giá chào.",
         "html": "<h1>Offer price</h1><h3><i>//</i></h3><ul><li>(Econ) Giá chào.</li></ul>",
         "id": 67420,
@@ -23102,6 +23101,5 @@
         "id": 67423,
         "pronounce": "",
         "word": "Other things equal"
-    },
-    
+    }
 ]

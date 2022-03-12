@@ -74447,8 +74447,8 @@
         "id": 67376,
         "pronounce": "",
         "word": "Consumption"
-    }.
- {
+    },
+    {
         "description": "(Econ) Hàm Tiêu dùng.",
         "html": "<h1>Consumption function</h1><h3><i>//</i></h3><ul><li>(Econ) Hàm Tiêu dùng.</li></ul>",
         "id": 67378,
@@ -74525,12 +74525,11 @@
         "pronounce": "",
         "word": "Cumulative probality"
     },
- 
     {
         "description": "(Econ) Chính sách thu chi ngân sách thu hẹp.",
         "html": "<h1>Contractionary fiscal policy</h1><h3><i>//</i></h3><ul><li>(Econ) Chính sách thu chi ngân sách thu hẹp.</li></ul>",
         "id": 67412,
         "pronounce": "",
         "word": "Contractionary fiscal policy"
-    },
+    }
 ]
