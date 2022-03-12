@@ -45,10 +45,15 @@ app.on('window-all-closed', function() {
 // code. You can also put them in separate files and require them here.
 const Loader = require('./load.js')
 
-const bstForest = [];
+const bstForest1 = [];
+const bstForest2 = [];
 app.on('ready', function() {
-    for (let i = 0; i < 26; i++) {
-        const tree = Loader.init((i + 10).toString(36))
-        bstForest.push(tree);
+    for (let i = 0; i < 13; i++) {
+        const tree1 =  Loader.init((i + 10).toString(23))
+        bstForest1.push(tree1);
+    }
+    for (let i = 13; i < 26; i++) {
+        const tree2 =  Loader.init((i + 10).toString(36))
+        bstForest2.push(tree2);
     }
 })

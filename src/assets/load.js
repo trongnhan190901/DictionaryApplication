@@ -2,9 +2,9 @@ const BinarySearchTree = require('../core/BinarySearchTree.js')
 const fs = require('fs');
 const path = require('path');
 
-const customCompare = (objWordA, objWordB) => {
-    if (objWordA === objWordB) return 0;
-    return objWordA?.word === objWordB?.word ? -1 : 1;
+const customCompare = (wordA, wordB) => {
+    if (wordA?.word === wordB?.word){ return 0 };
+    return wordA?.word < wordB?.word ? -1 : 1;
 }
 
 function ReadFile(character) {
@@ -23,7 +23,7 @@ function ReadFile(character) {
 
 const init = (character) => {
     const words = ReadFile(character);
-    console.log(words.length);
+    console.log(words.length + " " + character);
     const tree = new BinarySearchTree(customCompare)
     tree.insert(words[Math.floor(words.length / 2)])
     let x = Math.floor(words.length / 2) - 1;
