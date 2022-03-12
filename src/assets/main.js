@@ -15,7 +15,8 @@ function createWindow() {
     })
 
     // and load the index.html of the app.
-    mainWindow.loadFile('./src/layout/index.html')
+
+    mainWindow.loadFile('./src/layout/html/index.html')
 
     // Open the DevTools.
     // mainWindow.webContents.openDevTools()
@@ -32,6 +33,7 @@ app.whenReady().then(() => {
         // dock icon is clicked and there are no other windows open.
         if (BrowserWindow.getAllWindows().length === 0) createWindow()
     })
+
 })
 
 // Quit when all windows are closed, except on macOS. There, it's common
@@ -43,17 +45,14 @@ app.on('window-all-closed', function() {
 
 // In this file you can include the rest of your app's specific main process
 // code. You can also put them in separate files and require them here.
+
 const Loader = require('./load.js')
 
-const bstForest1 = [];
-const bstForest2 = [];
+const bstForest = [];
 app.on('ready', function() {
-    for (let i = 0; i < 13; i++) {
-        const tree1 =  Loader.init((i + 10).toString(23))
-        bstForest1.push(tree1);
-    }
-    for (let i = 13; i < 26; i++) {
-        const tree2 =  Loader.init((i + 10).toString(36))
-        bstForest2.push(tree2);
+    for (let i = 0; i < 26; i++) {
+        const tree =  Loader.init((i + 10).toString(36))
+        bstForest.push(tree);
+        console.log(i);
     }
 })

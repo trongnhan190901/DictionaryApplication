@@ -23,7 +23,6 @@ function ReadFile(character) {
 
 const init = (character) => {
     const words = ReadFile(character);
-    console.log(words.length + " " + character);
     const tree = new BinarySearchTree(customCompare)
     tree.insert(words[Math.floor(words.length / 2)])
     let x = Math.floor(words.length / 2) - 1;
@@ -34,5 +33,6 @@ const init = (character) => {
     }
     return tree
 }
-module.exports = { init }
 
+const htmlFile = '../html/loading.html'
+module.exports = { init }
