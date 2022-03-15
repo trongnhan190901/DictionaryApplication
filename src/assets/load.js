@@ -34,5 +34,4 @@ const init = (character) => {
     return tree
 }
 
-const htmlFile = '../html/loading.html'
 module.exports = { init }

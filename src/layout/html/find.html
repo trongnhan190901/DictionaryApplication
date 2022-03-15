@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../../../public/style.css">
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <title>Dictionary Application</title>
+</head>
+
+<body>
+    <div class="h-screen">
+        <div class="w-full h-full bg-gray-400">
+            <div class="flex flex-no-wrap">
+                <div  style="min-height: 700px" class="absolute lg:relative w-48 h-screen shadow bg-gray-300 hidden lg:block">
+                    <svg class="stroke-indigo-700 w-24 h-24 text-center mx-auto mt-10 mb-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-book"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+                    <h2 class="text-xl text-center font-medium">EV Dictionary</h2>
+                    <ul class="py-6">
+                        <li class="text-indigo-700 pl-6 cursor-pointer  text-sm leading-3 tracking-normal  mt-4 mb-4 py-2  hover:text-indigo-700 focus:text-indigo-700 focus:outline-none underline underline-offset-8">
+                            <div class="flex items-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                                        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                                        <circle cx="10" cy="10" r="7"></circle>
+                                        <line x1="21" y1="21" x2="15" y2="15"></line>
+                                     </svg>
+                                </div>
+                                <a href="./find.html" class="ml-2">Tra từ</a>
+                            </div>
+                        </li>
+                        <li class="pl-6 cursor-pointer text-gray-600 text-sm leading-3 tracking-normal mt-4 mb-4 py-2  hover:text-indigo-700 focus:text-indigo-700 focus:outline-none">
+                            <div class="flex items-center">
+                                <svg xmlns="http://www.w3.org/2000/svg" class=" icon icon-tabler icon-tabler-list" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                                    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                                    <line x1="9" y1="6" x2="20" y2="6"></line>
+                                    <line x1="9" y1="12" x2="20" y2="12"></line>
+                                    <line x1="9" y1="18" x2="20" y2="18"></line>
+                                    <line x1="5" y1="6" x2="5" y2="6.01"></line>
+                                    <line x1="5" y1="12" x2="5" y2="12.01"></line>
+                                    <line x1="5" y1="18" x2="5" y2="18.01"></line>
+                                 </svg>
+                                <a href="./list.html" class="ml-2">Danh sách từ</a>
+                            </div>
+                        </li>
+                        <li class="pl-6 cursor-pointer text-gray-600 text-sm leading-3 tracking-normal mb-4 py-2 hover:text-indigo-700 focus:text-indigo-700 focus:outline-none">
+                            <div class="flex items-center">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-square-plus" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                                    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                                    <rect x="4" y="4" width="16" height="16" rx="2"></rect>
+                                    <line x1="9" y1="12" x2="15" y2="12"></line>
+                                    <line x1="12" y1="9" x2="12" y2="15"></line>
+                                 </svg>
+                                <a href="./add.html" class="ml-2">Thêm từ</a>
+                            </div>
+                        </li>
+                        <li class="pl-6 cursor-pointer text-gray-600 text-sm leading-3 tracking-normal py-2 hover:text-indigo-700 focus:text-indigo-700 focus:outline-none">
+                            <div class="flex items-center">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-heart" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                                    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                                    <path d="M19.5 13.572l-7.5 7.428l-7.5 -7.428m0 0a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572"></path>
+                                 </svg>
+                                <a href="./favorite.html" class="ml-2">Từ yêu thích</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="content flex flex-wrap flex-col bg-gray-200 h-screen">
+                    <div class="flex text-5xl text-indigo-700 pr-8 w-full mt-10 h-12 pl-10">Tra từ vựng</div>
+                    <div class="justify-center mx-auto items-center ">
+                        <div class=" justify-items-center mt-8"> 
+                            <input type="text" class="w-[498px] input_search mt-4 rounded-xl  text-center h-12 pr-8 pl-5 focus:shadow focus:outline-indigo-700" placeholder="Search">
+                        </div>                 
+                    </div> 
+                    <div class="w-[80%] h-[59%] border-2 border-indigo-700 h-12 mx-auto mb-auto rounded-xl mt-8 bg-white"></div> 
+                    <footer class="flex flex-col bg-gray-100 text-center lg:text-left">
+                        <div class="text-center text-gray-700 p-4" style="background-color: rgba(0, 0, 0, 0.2);">
+                          © 2022 Copyright by 
+                          <a class="text-indigo-700" href="https://github.com/trongnhan190901" target="_blank">Trọng Nhân</a>
+                          |
+                          <a class="text-indigo-700" href="https://github.com/trongnhan190901/ct239" target="_blank">Source Code</a>
+                        </div>
+                    </footer>
+                </div>
+               
+            </div>
+        </div>
+    </div>
+</body>
+<script src="../../assets/main.js"></script>
+<script src="../../assets/load.js"></script>
+
+</html>

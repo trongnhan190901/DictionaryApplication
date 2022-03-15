@@ -7,8 +7,8 @@ const path = require('path')
 function createWindow() {
     // Create the browser window.
     const mainWindow = new BrowserWindow({
-        width: 800,
-        height: 600,
+        width: 1024,
+        height: 768,
         webPreferences: {
             preload: path.join(__dirname, 'preload.js')
         }
@@ -16,7 +16,7 @@ function createWindow() {
 
     // and load the index.html of the app.
 
-    mainWindow.loadFile('./src/layout/html/index.html')
+    mainWindow.loadFile('./src/layout/html/find.html')
 
     // Open the DevTools.
     // mainWindow.webContents.openDevTools()
