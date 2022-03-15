@@ -4,6 +4,17 @@
 const { app, BrowserWindow } = require('electron')
 const path = require('path')
 
+const Loader = require('./load.js')
+const bstForest = [];
+// Load and build data file into BST
+function load(){
+    for (let i = 0; i < 26; i++) {
+        const tree =  Loader.init((i + 10).toString(36))
+        bstForest.push(tree);
+        console.log(i);
+    }
+}
+
 function createWindow() {
     // Create the browser window.
     const mainWindow = new BrowserWindow({
@@ -11,7 +22,8 @@ function createWindow() {
         height: 768,
         webPreferences: {
             preload: path.join(__dirname, 'preload.js')
-        }
+        },
+        show:false
     })
 
     // and load the index.html of the app.
@@ -20,13 +32,47 @@ function createWindow() {
 
     // Open the DevTools.
     // mainWindow.webContents.openDevTools()
+    mainWindow.webContents.on('did-finish-load', () => {
+        /// then close the loading screen window and show the main window
+        if (loadingScreen) {
+            load()
+            loadingScreen.close();
+        }
+        mainWindow.show();
+      });
 }
+
+var loadingScreen;
+const createLoadingScreen = () => {
+  /// create a browser window
+  loadingScreen = new BrowserWindow(
+    Object.assign({
+      /// define width and height for the window
+      width: 350,
+      height: 200,
+      /// remove the window frame, so it will become a frameless window
+      frame: false,
+      /// and set the transparency, to remove any window background color
+      transparent: true
+    })
+  );
+  loadingScreen.setResizable(false);
+  loadingScreen.loadFile('./src/layout/html/loading.html');
+  loadingScreen.on('closed', () => (loadingScreen = null));
+  loadingScreen.webContents.on('did-finish-load', () => {
+    loadingScreen.show();
+  });
+};
 
 // This method will be called when Electron has finished
 // initialization and is ready to create browser windows.
 // Some APIs can only be used after this event occurs.
 app.whenReady().then(() => {
-    createWindow()
+  createLoadingScreen();
+  /// add a little bit of delay for tutorial purposes, remove when not needed
+ 
+    createWindow();
+ 
 
     app.on('activate', function() {
         // On macOS it's common to re-create a window in the app when the
@@ -45,14 +91,3 @@ app.on('window-all-closed', function() {
 
 // In this file you can include the rest of your app's specific main process
 // code. You can also put them in separate files and require them here.
-
-const Loader = require('./load.js')
-
-const bstForest = [];
-app.on('ready', function() {
-    for (let i = 0; i < 26; i++) {
-        const tree =  Loader.init((i + 10).toString(36))
-        bstForest.push(tree);
-        console.log(i);
-    }
-})
