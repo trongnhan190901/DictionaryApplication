@@ -8,6 +8,7 @@
 </head>
 <body>
     <div class="page">
+		<span class="starting">STARTING</span>
         <div class="item">
             <i class="loader --4"></i>
         </div>
@@ -35,7 +36,7 @@
 	position: absolute;
 }.loader.--4::before {
 	height: 2px;
-	width: 36vmin;
+	width: 40vmin;
 	background-color: var(--color);
 	animation: loader-4 1.2s cubic-bezier(0, 0, 0.03, 0.9) infinite;
 }
@@ -70,7 +71,14 @@
 .page {
 	margin: auto;
 }
-
+.starting{
+	font-size: 1.1rem;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	position: relative;
+	bottom: 8px;
+	font-style: italic;
+}
 html, body {
 	display: flex;
     overflow: hidden;
