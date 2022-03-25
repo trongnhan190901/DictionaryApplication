@@ -40,4 +40,7 @@ module.exports = class BinarySearchTree {
     toString() {
         return this.root.toString();
     }
+    search(value) {
+        return this.root.find(value);
+    }
 }

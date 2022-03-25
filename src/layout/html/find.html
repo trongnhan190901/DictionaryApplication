@@ -17,7 +17,7 @@
                 <!-- Navbar -->
                 <div class="absolute lg:relative w-48 h-screen shadow bg-gray-300 hidden lg:block">
                     <svg class="stroke-indigo-700 w-24 h-24 text-center mx-auto mt-10 mb-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-book"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
-                    <h2 class="text-xl text-center font-medium">EV Dictionary</h2>
+                    <h2 class="text-2xl text-center font-medium">EV Dictionary</h2>
                     <ul class="py-6">
                         <li class="text-indigo-700 pl-6 cursor-pointer  text-sm leading-3 tracking-normal  mt-4 mb-4 py-2  hover:text-indigo-700 focus:text-indigo-700 focus:outline-none underline underline-offset-8">
                             <div class="flex items-center">
@@ -28,7 +28,7 @@
                                         <line x1="21" y1="21" x2="15" y2="15"></line>
                                      </svg>
                                 </div>
-                                <a href="./find.html" class="ml-2">Tra từ</a>
+                                <a href="./find.html" class="text-lg ml-2">Tra từ</a>
                             </div>
                         </li>
                         <li class="pl-6 cursor-pointer text-gray-600 text-sm leading-3 tracking-normal mt-4 mb-4 py-2  hover:text-indigo-700 focus:text-indigo-700 focus:outline-none">
@@ -42,7 +42,7 @@
                                     <line x1="5" y1="12" x2="5" y2="12.01"></line>
                                     <line x1="5" y1="18" x2="5" y2="18.01"></line>
                                  </svg>
-                                <a href="./list.html" class="ml-2">Danh sách từ</a>
+                                <a href="./list.html" class="text-lg ml-2">Danh sách từ</a>
                             </div>
                         </li>
                         <li class="pl-6 cursor-pointer text-gray-600 text-sm leading-3 tracking-normal mb-4 py-2 hover:text-indigo-700 focus:text-indigo-700 focus:outline-none">
@@ -53,7 +53,7 @@
                                     <line x1="9" y1="12" x2="15" y2="12"></line>
                                     <line x1="12" y1="9" x2="12" y2="15"></line>
                                  </svg>
-                                <a href="./add.html" class="ml-2">Thêm từ</a>
+                                <a href="./add.html" class="text-lg ml-2">Thêm từ</a>
                             </div>
                         </li>
                         <li class="pl-6 cursor-pointer text-gray-600 text-sm leading-3 tracking-normal py-2 hover:text-indigo-700 focus:text-indigo-700 focus:outline-none">
@@ -62,7 +62,7 @@
                                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                                     <path d="M19.5 13.572l-7.5 7.428l-7.5 -7.428m0 0a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572"></path>
                                  </svg>
-                                <a href="./favorite.html" class="ml-2">Từ yêu thích</a>
+                                <a href="./favorite.html" class="text-lg ml-2">Từ yêu thích</a>
                             </div>
                         </li>
                     </ul>
@@ -72,13 +72,38 @@
                     <div class="flex text-5xl text-indigo-700 pr-8 w-full mt-10 h-12 pl-10">Tra từ vựng</div>
                     <div class="justify-center mx-auto items-center ">
                         <div class=" justify-items-center mt-8"> 
-                            <!-- <form class="search-form" method="post">
-                                <input name="search" type="text" class=" w-[498px] search-input mt-4 rounded-xl text-center h-12 pr-8 pl-5 focus:shadow focus:outline-indigo-700" placeholder="Search" >
-                            </form> -->
-                            <button class="button-click" type="submit">change</button>
+                            <form class="search-form" method="post">
+                                <input name="search" type="text" class=" w-[498px] search-input mt-4 rounded-xl text-center h-12 pr-8 pl-5 focus:shadow focus:outline-indigo-700" placeholder="Tìm từ tiếng Anh" autofocus>
+                            </form>
                         </div>                 
                     </div> 
-                    <div class="w-[80%] h-[59%] border-2 border-indigo-700 mx-auto mb-auto rounded-xl mt-8 bg-white"></div> 
+                    <div class="overflow-y-auto w-[80%] h-[59%] border-2 border-indigo-700 mx-auto mb-auto rounded-lg mt-8 bg-white">
+                        <div class="search-request">
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="120px" height="120px" class="mx-auto mt-12 h-48" fill="#BDBDBD" viewBox="0 0 256 256" xml:space="preserve">
+                                <g transform="translate(128 128) scale(0.72 0.72)" >
+                                    <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(-175.05 -175.05000000000004) scale(3.89 3.89)" >
+                                    <path d="M 89.414 86.586 L 62.862 60.034 c 5.931 -6.612 9.178 -15.063 9.178 -24.014 c 0 -9.622 -3.747 -18.667 -10.551 -25.47 C 54.687 3.747 45.641 0 36.02 0 c -9.622 0 -18.667 3.747 -25.47 10.55 C 3.747 17.353 0 26.398 0 36.02 c 0 9.621 3.747 18.667 10.55 25.469 c 6.803 6.804 15.848 10.551 25.47 10.551 c 8.951 0 17.402 -3.247 24.014 -9.178 l 26.552 26.552 C 86.977 89.805 87.488 90 88 90 s 1.023 -0.195 1.414 -0.586 C 90.195 88.633 90.195 87.367 89.414 86.586 z M 13.378 58.661 C 7.331 52.613 4 44.573 4 36.02 c 0 -8.553 3.331 -16.594 9.378 -22.642 S 27.467 4 36.02 4 c 8.553 0 16.593 3.331 22.641 9.378 S 68.04 27.467 68.04 36.02 c 0 8.553 -3.331 16.593 -9.379 22.641 S 44.573 68.04 36.02 68.04 C 27.467 68.04 19.426 64.709 13.378 58.661 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                                </g>
+                                </g>
+                                </svg>
+                            <div class="text-xl text-center text-gray-400">Nhập từ cần tìm vào ô tìm kiếm</div>
+                        </div>
+                        <div class="search-undefined hidden">
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="135px" height="135px" class="mx-auto mt-12 h-48" fill="#BDBDBD" viewBox="0 0 256 256" xml:space="preserve">
+                                <g transform="translate(128 128) scale(0.72 0.72)" >
+                                    <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(-175.05 -175.05000000000004) scale(3.89 3.89)" >
+                                    <path d="M 85.429 85.078 H 4.571 c -1.832 0 -3.471 -0.947 -4.387 -2.533 c -0.916 -1.586 -0.916 -3.479 0 -5.065 L 40.613 7.455 C 41.529 5.869 43.169 4.922 45 4.922 c 0 0 0 0 0 0 c 1.832 0 3.471 0.947 4.386 2.533 l 40.429 70.025 c 0.916 1.586 0.916 3.479 0.001 5.065 C 88.901 84.131 87.261 85.078 85.429 85.078 z M 45 7.922 c -0.747 0 -1.416 0.386 -1.79 1.033 L 2.782 78.979 c -0.373 0.646 -0.373 1.419 0 2.065 c 0.374 0.647 1.042 1.033 1.789 1.033 h 80.858 c 0.747 0 1.416 -0.387 1.789 -1.033 s 0.373 -1.419 0 -2.065 L 46.789 8.955 C 46.416 8.308 45.747 7.922 45 7.922 L 45 7.922 z M 45 75.325 c -4.105 0 -7.446 -3.34 -7.446 -7.445 s 3.34 -7.445 7.446 -7.445 s 7.445 3.34 7.445 7.445 S 49.106 75.325 45 75.325 z M 45 63.435 c -2.451 0 -4.446 1.994 -4.446 4.445 s 1.995 4.445 4.446 4.445 s 4.445 -1.994 4.445 -4.445 S 47.451 63.435 45 63.435 z M 45 57.146 c -3.794 0 -6.882 -3.087 -6.882 -6.882 V 34.121 c 0 -3.794 3.087 -6.882 6.882 -6.882 c 3.794 0 6.881 3.087 6.881 6.882 v 16.144 C 51.881 54.06 48.794 57.146 45 57.146 z M 45 30.239 c -2.141 0 -3.882 1.741 -3.882 3.882 v 16.144 c 0 2.141 1.741 3.882 3.882 3.882 c 2.14 0 3.881 -1.741 3.881 -3.882 V 34.121 C 48.881 31.98 47.14 30.239 45 30.239 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                                    </g>
+                                </g>
+                                </svg>
+                            <div class="text-xl text-center text-gray-400">Từ bạn tìm không tồn tại !!</div>
+                        </div>
+                        <div class="main-content hidden ">
+                            
+                                 <!-- render data -->
+                           
+                        </div>
+                    </div> 
                     <footer class="flex flex-col bg-gray-100 text-center lg:text-left">
                         <div class="text-center text-gray-700 p-4">
                           © 2022 Copyright by 

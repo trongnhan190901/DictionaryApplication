@@ -3,6 +3,7 @@
 // Modules to control application life and create native browser window
 const { app, BrowserWindow, ipcMain } = require('electron')
 const path = require('path')
+  
 
 const Loader = require('./load.js')
 const bstForest = [];
@@ -32,7 +33,8 @@ function createWindow() {
     mainWindow.loadFile('./src/layout/html/find.html')
 
     // Open the DevTools.
-    mainWindow.webContents.openDevTools()
+    // mainWindow.webContents.openDevTools()
+
     mainWindow.webContents.on('did-finish-load', () => {
         /// then close the loading screen window and show the main window
         if (loadingScreen) {
@@ -92,9 +94,12 @@ app.on('window-all-closed', function() {
 // code. You can also put them in separate files and require them here.
 
 // receive message from index.html 
-ipcMain.on('search-input', (event, arg) => {
-  console.log( arg );
+ipcMain.on('search-value', (event, arg) => {
+  const searchValue = arg.trim()
+  const i = +searchValue.charCodeAt(0) - 97
   
-  // send message to index.html
-  mainWindow.webContents.send('reply', 'abc')
+  if(searchValue.length){
+    const searchResult = bstForest[i]?.search({word: searchValue})
+    mainWindow.webContents.send('search-result', searchResult?.value)
+  }
   });
