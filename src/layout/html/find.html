@@ -4,6 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="../../../public/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;1,200&display=swap" rel="stylesheet">
     <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
     <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'">
@@ -69,7 +72,7 @@
                 </div>
                 <!-- Content -->
                 <div class="content flex flex-wrap flex-col bg-gray-200 h-screen">
-                    <div class="flex text-5xl text-indigo-700 pr-8 w-full mt-10 h-12 pl-10">Tra từ vựng</div>
+                    <div class="flex text-5xl text-indigo-700 pr-8 w-full mt-10 h-12 pl-10">Tra từ</div>
                     <div class="justify-center mx-auto items-center ">
                         <div class=" justify-items-center mt-8"> 
                             <form class="search-form" method="post">
@@ -98,10 +101,18 @@
                                 </svg>
                             <div class="text-xl text-center text-gray-400">Từ bạn tìm không tồn tại !!</div>
                         </div>
-                        <div class="main-content hidden ">
-                            
-                                 <!-- render data -->
-                           
+                        <div class="main-content hidden">
+                            <button class="like-button">
+                                <svg class="inactive-button button-inactive mt-2 ml-3 stroke-indigo-700" width="40px" height="44px" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                                </svg>
+                                <svg class="active-button mt-2 ml-3 stroke-rose-400 fill-red-400 hidden" width="40px" height="44px" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                                </svg>
+                            </button>
+                            <div class="content-render px-5">
+                                <!-- render data -->
+                            </div>
                         </div>
                     </div> 
                     <footer class="flex flex-col bg-gray-100 text-center lg:text-left">
@@ -118,5 +129,4 @@
     </div>
 </body>
 <script src="../../render/rerender.js"></script>
-
 </html>
