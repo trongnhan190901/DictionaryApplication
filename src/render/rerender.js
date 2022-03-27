@@ -1,24 +1,18 @@
 const { ipcRenderer } = require('electron/renderer')
-const fs = require('fs')
 
-let wordArr = [];
-let descArr = [];
+let favoriteArr = [];
 function addData(data) {
-  wordArr.push(data.word);
-  descArr.push(data.description)
+  let innerObject = {
+    word: data.word,
+    description: data.description
+  }
+  favoriteArr.unshift(innerObject);
 }
 
-// Read and write local file
-
-// fs.readFile('../local/favorite.json', 'utf8', (err, data) => {
-//   if(data != ''){
-//       wordArr = JSON.parse(data)
-//   }
-//   wordArr.push(this)           
-// });
-// fs.writeFile('../local/favorite.json', JSON.stringify(Object.assign({}, wordArr)), (err) => {
-//   console.log(err)
-// }); 
+function removeData(data) {
+  let exits = favoriteArr.findIndex((e) => e.word === data.word)
+  favoriteArr.splice(exits, 1)
+}
 
 // Rerender find.html
 
@@ -28,7 +22,6 @@ const mainContent = document.querySelector('.main-content');
 const searchRequest = document.querySelector('.search-request');
 const searchUndefined = document.querySelector('.search-undefined');
 const contentRender = document.querySelector('.content-render');
-const button = document.querySelector(".like-button");
 const activeButton = document.querySelector('.active-button');
 const inactiveButton = document.querySelector('.inactive-button');
 let dataReceive = {};
@@ -47,13 +40,6 @@ searchInput.addEventListener('keyup', (e) => {
     else searchRequest.classList.add("hidden")
 })
 
-function removeData(data) {
-  const index = arr.indexOf(data)
-  if (index !== -1)
-  wordArr.splice(index, 1)
-  descArr.splice(index, 1)
-}
-
 ipcRenderer.on('search-result',(event, data) => {
     dataReceive = data;
 
@@ -61,7 +47,7 @@ ipcRenderer.on('search-result',(event, data) => {
         searchUndefined.classList.add("hidden")
         mainContent.classList.remove("hidden")
         contentRender.innerHTML = data.html
-        let exits = wordArr.includes(data.word)
+        let exits = favoriteArr.find((e) => e.word === data.word)
         if (exits) { 
           inactiveButton.classList.add("hidden")
           activeButton.classList.remove("hidden")
@@ -82,6 +68,8 @@ ipcRenderer.on('search-result',(event, data) => {
         activeButton.classList.remove("hidden")
         inactiveButton.classList.add("hidden")
         addData(data)
+        console.log(favoriteArr);
+        buildFavoriteList(data)
       } 
     })
    
@@ -99,6 +87,13 @@ ipcRenderer.on('search-result',(event, data) => {
 
 // Rerender favorite
 
-const favoriteList = document.querySelector('.favorite-list')
-
+function buildFavoriteList(data) {
+  const favoriteList = document.querySelector('.favorite-list')
+  const wordData = document.createElement('h2')
+  const descData = document.createElement('span')
+    wordData.innerHTML = data.word
+    descData.innerHTML = data.description
+    favoriteList.appendChild(wordData)
+    favoriteList.appendChild(descData)
+}
 
