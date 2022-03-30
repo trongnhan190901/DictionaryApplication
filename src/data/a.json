@@ -10207,7 +10207,7 @@
     },
     {
         "description": "ngôi 1 số ít thời hiện tại của be: ",
-        "html": "<h1>am</h1><h3><i>/æm, əm, m/</i></h3><h2>ngôi 1 số ít thời hiện tại của be</h2>",
+        "html": "<h1>am</h1><h3><i>/æm, əm, m/</i></h3><h2></h2><ul><li>ngôi 1 số ít thời hiện tại của be</li></ul>",
         "id": 1459,
         "pronounce": "æm, əm, m",
         "word": "am"
