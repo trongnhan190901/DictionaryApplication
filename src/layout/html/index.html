@@ -155,33 +155,33 @@
                     
                     <div class="flex justify-center mx-auto bg-gray-200 w-full mb-auto">
                        
-                        <form action="#" class="w-full md:w-3/4 lg:w-4/6 p-4 pt-6  ">
+                        <form action="#" class="add-word w-full md:w-3/4 lg:w-4/6 p-4 pt-6  ">
                         <div class="p-3">
-                            <input class="rounded-xl block appearance-none placeholder-gray-500 placeholder-opacity-100 border w-full py-3 px-4 text-gray-700 leading-5 focus:shadow focus:outline-indigo-700" type="text" placeholder="Từ vựng *" required>
+                            <input name="word" class="invalid:border-red-500 rounded-xl block appearance-none placeholder-gray-500 placeholder-opacity-100 border w-full py-3 px-4 text-gray-700 leading-5 focus:shadow focus:outline-indigo-700" type="text" placeholder="Từ vựng *" required>
                         </div>
                         <div class="p-3">
-                            <input class="rounded-xl block appearance-none placeholder-gray-500 placeholder-opacity-100 border w-full py-3 px-4 text-gray-700 leading-5 focus:shadow focus:outline-indigo-700" type="text" placeholder="Nghĩa tiếng Việt *" required>
+                            <input name="meaning" class="invalid:border-red-500 rounded-xl block appearance-none placeholder-gray-500 placeholder-opacity-100 border w-full py-3 px-4 text-gray-700 leading-5 focus:shadow focus:outline-indigo-700" type="text" placeholder="Nghĩa tiếng Việt *" required>
                         </div>
                         <div class="p-3">
-                            <input class="rounded-xl block appearance-none placeholder-gray-500 placeholder-opacity-100 border w-full py-3 px-4 text-gray-700 leading-5 focus:shadow focus:outline-indigo-700" type="text" placeholder="Phát âm *" >
+                            <input name="pronounce" class="rounded-xl block appearance-none placeholder-gray-500 placeholder-opacity-100 border w-full py-3 px-4 text-gray-700 leading-5 focus:shadow focus:outline-indigo-700" type="text" placeholder="Phát âm" >
                         </div>
                         <div class="p-3">
-                            <select class="rounded-xl block appearance-none placeholder-gray-500 placeholder-opacity-100 border w-full py-3 px-4 text-gray-700 leading-5 focus:shadow focus:outline-indigo-700" required>
+                            <select name="catalog" class="invalid:border-red-500 rounded-xl block appearance-none placeholder-gray-500 placeholder-opacity-100 border w-full py-3 px-4 text-gray-700 leading-5 focus:shadow focus:outline-indigo-700" required>
                                 <option value="" disabled selected>Từ loại *</option>
-                                <option value="noun">Danh từ (Noun)</option>
-                                <option value="verb">Động từ (Verb)</option>
-                                <option value="adj">Tính từ (Adjective)</option>
-                                <option value="adv">Trạng  từ (Adverb)</option>
-                                <option value="pre">Giới từ (Prepositions)</option>
-                                <option value="determiners">Từ hạn định (Determiners)</option>
-                                <option value="pron">Đại từ (Pronouns)</option>
-                                <option value="conj">Liên từ (Conjunctions)</option>
-                                <option value="interjection">Thán từ (Interjection)</option> 
-                                <option value="sentence">Câu (Sentence)</option>                               
+                                <option value="danh từ">Danh từ (Noun)</option>
+                                <option value="động từ">Động từ (Verb)</option>
+                                <option value="tính từ">Tính từ (Adjective)</option>
+                                <option value="trạng từ">Trạng  từ (Adverb)</option>
+                                <option value="giới từ">Giới từ (Prepositions)</option>
+                                <option value="từ hạn định">Từ hạn định (Determiners)</option>
+                                <option value="đại từ">Đại từ (Pronouns)</option>
+                                <option value="liên từ">Liên từ (Conjunctions)</option>
+                                <option value="thán từ">Thán từ (Interjection)</option> 
+                                <option value="câu">Câu (Sentence)</option>                               
                             </select>
                         </div>
                         <div class="p-3">
-                            <textarea class=" rounded-xl resize-none block appearance-none placeholder-gray-500 placeholder-opacity-100 border w-full py-3 px-4 text-gray-700 leading-5 focus:shadow focus:outline-indigo-700 h-36" placeholder="Mô tả"></textarea>
+                            <textarea name="example" class=" rounded-xl resize-none block appearance-none placeholder-gray-500 placeholder-opacity-100 border w-full py-3 px-4 text-gray-700 leading-5 focus:shadow focus:outline-indigo-700 h-36" placeholder="Mô tả (ví dụ, thành ngữ, ...)"></textarea>
                         </div>                        
                         <div class="font-extralight italic text-lg text-center text-gray-500">Các thuộc tính * bắt buộc phải nhập !!!</div>
                         <div class="p-3">
@@ -209,7 +209,7 @@
                     </div> 
                     <div class="overflow-y-auto w-[80%] h-[70%] border-2 border-indigo-700 mx-auto mb-auto rounded-lg bg-white">
                         <div class="favorite-list">
-                            
+                            <!-- Danh sách yêu thích -->
                         </div>
                         
                     </div> 

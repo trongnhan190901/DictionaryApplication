@@ -11,6 +11,7 @@ const contentRender = document.querySelector('.content-render');
 const likeButton = document.querySelector('.like-button');
 const activeButton = document.querySelector('.active-button');
 const inactiveButton = document.querySelector('.inactive-button')
+const addWord = document.querySelector('.add-word');
 
 let favoriteArr = []
 let desc
@@ -108,7 +109,6 @@ function writeWordsToFile (fileName, obj) {
 }
 
  function readJSONtoWords (fileName) {
-  console.log(fileName);
   try {
     const rawData = fs.readFileSync(
       path.join(
@@ -125,6 +125,22 @@ function writeWordsToFile (fileName, obj) {
   }
 }
 
+addWord.addEventListener('submit', e => {
+  e.preventDefault()
+  const newWordObj = {
+    word: addWord.word.value,
+    description: `${addWord.catalog.value}: ${addWord.meaning.value}`,
+    pronounce: `/${addWord.pronounce.value}/`,
+    html: `<h1>${addWord.word.value}</h1><h2>${addWord.catalog.value}</h2><ul><li>${addWord.meaning.value}</li><li>${addWord.example.value}</li></ul>`
+  }
+  ipcRenderer.send('new-word',newWordObj)
+
+  addWord.word.value = '',
+  addWord.meaning.value = '',
+  addWord.pronounce.value = '',
+  addWord.catalog.value = '',
+  addWord.example.value = ''
+})
 
 
 readJSONtoWords('favorite')

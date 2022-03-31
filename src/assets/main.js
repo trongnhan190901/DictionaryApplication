@@ -80,7 +80,7 @@ ipcMain.on('search-value', (event, data) => {
   });
 
 ipcMain.on('new-word', (event, data) => {
-  const i = +data.charCodeAt(0) - 97
+  const i = +data?.word.charCodeAt(0) - 97
   const exits = bstForest[i].search({word: data.word})
   if (!exits){
     bstForest[i].insert(data)

@@ -6,7 +6,6 @@ const writeFile = (character, wordObject) => {
         const rawData = fs.readFileSync(
             path.join(
                 __dirname,
-                __dirname,
                 `../data`,
                 `${character}.json`    
             )
@@ -15,7 +14,6 @@ const writeFile = (character, wordObject) => {
         words.push(wordObject)
         fs.writeFileSync(
             path.join(
-                __dirname,
                 __dirname,
                 `../data`,
                 `${character}.json`    
@@ -27,4 +25,4 @@ const writeFile = (character, wordObject) => {
     }
 }
 
-module.exports = { writeFile }
+module.exports = writeFile
