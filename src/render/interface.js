@@ -1,5 +1,5 @@
 const navFind = document.querySelector('.nav-find');
-const navList = document.querySelector('.nav-list');
+const navInfo = document.querySelector('.nav-info');
 const navAdd = document.querySelector('.nav-add');
 const navFavorite = document.querySelector('.nav-favorite');
 
@@ -15,11 +15,11 @@ navFind.addEventListener('click',e => {
         navFind.classList.remove('text-gray-600')
         navFind.classList.add('text-indigo-700', 'underline', 'underline-offset-8')
         
-        navList.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
+        navInfo.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
         navAdd.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
         navFavorite.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
        
-        navList.classList.add('text-gray-600')
+        navInfo.classList.add('text-gray-600')
         navAdd.classList.add('text-gray-600')
         navFavorite.classList.add('text-gray-600')
 
@@ -36,11 +36,11 @@ navFind.addEventListener('click',e => {
     }
 })
 
-navList.addEventListener('click',e => {
+navInfo.addEventListener('click',e => {
     e.preventDefault()
-    if (navList.classList.contains('text-gray-600')){
-        navList.classList.remove('text-gray-600')
-        navList.classList.add('text-indigo-700', 'underline', 'underline-offset-8')
+    if (navInfo.classList.contains('text-gray-600')){
+        navInfo.classList.remove('text-gray-600')
+        navInfo.classList.add('text-indigo-700', 'underline', 'underline-offset-8')
         
         navFind.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
         navAdd.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
@@ -71,11 +71,11 @@ navAdd.addEventListener('click',e => {
         navAdd.classList.add('text-indigo-700', 'underline', 'underline-offset-8')
         
         navFind.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
-        navList.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
+        navInfo.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
         navFavorite.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
 
         navFind.classList.add('text-gray-600')
-        navList.classList.add('text-gray-600')
+        navInfo.classList.add('text-gray-600')
         navFavorite.classList.add('text-gray-600')
 
         addRender.classList.remove('hidden')
@@ -99,11 +99,11 @@ navFavorite.addEventListener('click',e => {
         
         navFind.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
         navAdd.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
-        navList.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
+        navInfo.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
 
         navFind.classList.add('text-gray-600')
         navAdd.classList.add('text-gray-600')
-        navList.classList.add('text-gray-600')
+        navInfo.classList.add('text-gray-600')
 
         favoriteRender.classList.remove('hidden')
         favoriteRender.classList.add('flex')

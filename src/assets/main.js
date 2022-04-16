@@ -21,9 +21,10 @@ function createWindow() {
           contextIsolation:false,
           preload: path.join(__dirname, 'preload.js'),
         },
-        show:false
-    })
+        show:false,
 
+    })
+    mainWindow.removeMenu()
     mainWindow.loadFile('./src/layout/html/index.html')
 
     mainWindow.webContents.on('did-finish-load', () => {
@@ -87,5 +88,4 @@ ipcMain.on('new-word', (event, data) => {
     writeFile(data.word.charAt(0), data)
     }
 })
-
 
