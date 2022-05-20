@@ -14,6 +14,15 @@ Tải về ứng dụng đã được hoàn thiện:
 npm install
 ```
 
+- Khởi động ứng dụng:
+
+```bash
+npm start
+```
+- Thay đổi code CSS, TailwindCSS:
+```bash
+npm run build
+```
 ###  Build từ code ra ứng dụng, các bạn thực hiện lệnh sau:
 
 - Windows
