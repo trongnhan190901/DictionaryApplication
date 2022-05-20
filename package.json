@@ -1,5 +1,5 @@
 {
-    "name": "Dictionary Application",
+    "name": "DictionaryApplication",
     "version": "1.0.0",
     "description": "",
     "main": "./src/assets/main.js",
@@ -22,11 +22,12 @@
     },
     "homepage": "https://github.com/trongnhan190901/ct239#readme",
     "dependencies": {
-        "electron": "^16.0.7",
         "lit": "^2.2.1",
         "tailwindcss": "^3.0.23"
     },
     "devDependencies": {
+        "electron": "^18.2.4",
+        "electron-builder": "^23.0.3",
         "electron-packager": "^15.5.1"
     }
 }
