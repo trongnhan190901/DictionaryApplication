@@ -8,7 +8,7 @@ Tải về ứng dụng đã được hoàn thiện:
 ### Hoặc các bạn có thể tải code và làm theo hướng dẫn.
 ### TẤT CẢ CÁC CÂU LỆNH PHẢI ĐƯỢC THỰC HIỆN TRONG THƯ MỤC GỐC CỦA DỰ ÁN!!
 
--  LƯU  Ý! Nếu các bạn tải code. Sau khi tải để có thể đủ tài nguyên sử dụng, các bạn thực hiện lệnh sau:
+-  Sau khi tải để có thể đủ tài nguyên sử dụng, các bạn thực hiện lệnh sau:
 
 ```bash
 npm install
