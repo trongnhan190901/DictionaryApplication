@@ -12,8 +12,11 @@ const likeButton = document.querySelector('.like-button');
 const activeButton = document.querySelector('.active-button');
 const inactiveButton = document.querySelector('.inactive-button')
 const addWord = document.querySelector('.add-word');
+const favoriteDeleteBtn = document.querySelector('.favorite-delete-btn');
+const recentDeleteBtn = document.querySelector('.recent-delete-btn');
 
 let favoriteArr = []
+let recentArr = []
 let desc
 
 searchForm.addEventListener('submit',(e) => {
@@ -27,7 +30,9 @@ searchInput.addEventListener('keyup', (e) => {
         mainContent.classList.add("hidden")
         searchRequest.classList.remove("hidden")
     }
-    else searchRequest.classList.add("hidden")
+    else {
+      searchRequest.classList.add("hidden")
+    }
 })
 
 ipcRenderer.on('search-result',(event, data) => {
@@ -39,6 +44,18 @@ ipcRenderer.on('search-result',(event, data) => {
       const exist = favoriteArr.find((e) => e.word === data?.word);
       desc = data?.description
       if (exist) this.activeLike(true);
+
+      const recent = recentArr.find((e) => e.word === data?.word);
+      const word = document.querySelector(".content-render h1").innerText;
+      const obj = {
+        word,
+        desc,
+      }
+      if (!recent) {
+        recentArr.unshift(obj)
+        this.writeWordsToFile("recent", recentArr);
+        this.buildRecentList(recentArr)
+      }
   }
   else{
       mainContent.classList.add("hidden")
@@ -91,8 +108,21 @@ function buildFavoriteList(data) {
   })
 }
 
+const recentList = document.querySelector('.recent-list')
+function buildRecentList(data) {
+  recentList.innerHTML = null
+  data.map(e => {
+    recentList.innerHTML += `
+      <div>
+        <div>
+          <h2>${e.word}:&nbsp</h2>
+          <span>${e.desc}</span>
+        </div>
+      </div>`
+  })
+}
+
 function writeWordsToFile (fileName, obj) {
-  console.log(fileName,obj);
   try {
     fs.writeFileSync(
       path.join(
@@ -110,15 +140,25 @@ function writeWordsToFile (fileName, obj) {
 
  function readJSONtoWords (fileName) {
   try {
-    const rawData = fs.readFileSync(
+    const recentData = fs.readFileSync(
       path.join(
         __dirname,  
         `../../`,
         `local`,
-        `${fileName}.json`
+        `recent.json`
       ),
     );
-      favoriteArr = JSON.parse(rawData);  
+    const favoriteData = fs.readFileSync(
+      path.join(
+        __dirname,  
+        `../../`,
+        `local`,
+        `favorite.json`
+      ),
+    );
+      recentArr = JSON.parse(recentData);  
+      buildRecentList(recentArr)
+      favoriteArr = JSON.parse(favoriteData);  
       buildFavoriteList(favoriteArr)
   } catch (e) {
     this.writeWordsToFile(fileName, []);
@@ -142,5 +182,25 @@ addWord.addEventListener('submit', e => {
   addWord.example.value = ''
 })
 
+favoriteDeleteBtn.addEventListener('click', (e) =>{
+  e.preventDefault()
+  favoriteArr = []
+    this.writeWordsToFile("favorite", favoriteArr)
+    this.buildFavoriteList(favoriteArr)
+    searchInput.value = ''
+    mainContent.classList.add("hidden")
+    searchRequest.classList.remove("hidden")
+})
+
+recentDeleteBtn.addEventListener('click', (e) =>{ 
+    e.preventDefault()
+    recentArr = []
+    this.writeWordsToFile("recent", recentArr)
+    this.buildRecentList(recentArr)
+    searchInput.value = ''
+    mainContent.classList.add("hidden")
+    searchRequest.classList.remove("hidden")  ()
+})
 
 readJSONtoWords('favorite')
+readJSONtoWords('recent')
