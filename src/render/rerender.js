@@ -199,7 +199,7 @@ recentDeleteBtn.addEventListener('click', (e) =>{
     this.buildRecentList(recentArr)
     searchInput.value = ''
     mainContent.classList.add("hidden")
-    searchRequest.classList.remove("hidden")  ()
+    searchRequest.classList.remove("hidden")
 })
 
 readJSONtoWords('favorite')
