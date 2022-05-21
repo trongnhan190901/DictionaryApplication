@@ -1,5 +1,4 @@
 const { app, BrowserWindow, ipcMain, dialog } = require('electron')
-const { webContents } = require('electron')
 const path = require('path')
 
 const readFile = require('./readFile.js')
