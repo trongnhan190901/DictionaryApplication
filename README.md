@@ -29,7 +29,7 @@ npm run build
 ```bash
 npx electron-builder --win
 ```
-- MacOS
+- MacOS (Chỉ MacOS mới có thể build cho MacOS)
 ```bash
 npx electron-builder --mac
 ```
