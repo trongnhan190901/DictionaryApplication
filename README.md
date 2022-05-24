@@ -25,15 +25,6 @@ npm run build
 ```
 ###  Build từ code ra ứng dụng, các bạn thực hiện lệnh sau:
 
-- Windows
 ```bash
-npx electron-builder --win
-```
-- MacOS
-```bash
-npx electron-builder --mac
-```
-- Linux
-```bash
-npx electron-builder --linux
+npx electron-packager .
 ```

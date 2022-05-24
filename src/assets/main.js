@@ -73,10 +73,10 @@ app.on('window-all-closed', function () {
 ipcMain.on('search-value', (event, data) => {
   const searchValue = data.trim()
   const i = +searchValue.charCodeAt(0) - 97
-
+  let notExist = searchValue
   if (searchValue.length) {
     const searchResult = bstForest[i]?.search({ word: searchValue })
-    mainWindow.webContents.send('search-result', searchResult?.value)
+    mainWindow.webContents.send('search-result', searchResult?.value, notExist)
   }
 });
 

@@ -14,6 +14,7 @@ const inactiveButton = document.querySelector('.inactive-button')
 const addWord = document.querySelector('.add-word');
 const favoriteDeleteBtn = document.querySelector('.favorite-delete-btn');
 const recentDeleteBtn = document.querySelector('.recent-delete-btn');
+const addButtonAddOn = document.querySelector('.add-button-addon')
 
 let favoriteArr = []
 let recentArr = []
@@ -35,7 +36,7 @@ searchInput.addEventListener('keyup', (e) => {
     }
 })
 
-ipcRenderer.on('search-result',(event, data) => {
+ipcRenderer.on('search-result',(event, data, addData) => {
   if (data !== undefined) {
       searchUndefined.classList.add("hidden")
       mainContent.classList.remove("hidden")
@@ -58,6 +59,37 @@ ipcRenderer.on('search-result',(event, data) => {
       }
   }
   else{
+    addButtonAddOn.addEventListener('click', e => {
+      e.preventDefault()
+    if (navAdd.classList.contains('text-gray-600')){
+        navAdd.classList.remove('text-gray-600')
+        navAdd.classList.add('text-indigo-700', 'underline', 'underline-offset-8')
+        
+        navFind.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
+        navInfo.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
+        navFavorite.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
+        navRecent.classList.remove('text-indigo-700', 'underline', 'underline-offset-8')
+
+        navFind.classList.add('text-gray-600')
+        navInfo.classList.add('text-gray-600')
+        navFavorite.classList.add('text-gray-600')
+        navRecent.classList.add('text-gray-600')
+
+        addRender.classList.remove('hidden')
+        addRender.classList.add('flex')
+
+        infoRender.classList.remove('flex')
+        findRender.classList.remove('flex')
+        favoriteRender.classList.remove('flex')
+        recentRender.classList.remove('flex')
+
+        infoRender.classList.add('hidden')
+        findRender.classList.add('hidden')
+        favoriteRender.classList.add('hidden')
+        recentRender.classList.add('hidden')
+    }
+    })
+      addWord.word.value = addData
       mainContent.classList.add("hidden")
       searchUndefined.classList.remove("hidden")
   }
