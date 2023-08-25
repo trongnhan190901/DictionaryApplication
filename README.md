@@ -3,7 +3,7 @@ Project này sử dụng cây tìm kiếm nhị phân kết hợp với file lư
 
 Tải về ứng dụng đã được hoàn thiện:
 
-- [Downloads](https://github.com/trongnhan190901/DictionaryApplication/releases/tag/release)
+- [Downloads](https://github.com/trongnhan190901/DictionaryApplication/releases/tag/releases)
 
 ### Hoặc các bạn có thể tải code và làm theo hướng dẫn.
 ### TẤT CẢ CÁC CÂU LỆNH PHẢI ĐƯỢC THỰC HIỆN TRONG THƯ MỤC GỐC CỦA DỰ ÁN!!
