@@ -722,6 +722,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   fill: #f87171;
 }
 
+.stroke-indigo-500 {
+  stroke: #6366f1;
+}
+
 .stroke-indigo-700 {
   stroke: #4338ca;
 }
